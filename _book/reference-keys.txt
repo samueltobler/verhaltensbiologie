@@ -1,0 +1,7 @@
+fig:nice-fig
+hello-bookdown
+a-section
+cross
+chapters-and-sub-chapters
+captioned-figures-and-tables
+tab:nice-tab

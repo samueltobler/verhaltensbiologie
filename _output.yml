@@ -5,7 +5,7 @@ bookdown::gitbook:
     lang: de
     toc:
       before: |
-        <li><a href="./" style="padding-top: 15px"><b>Verhaltensbiologie</b></a></li>
+        <li><a href="./" style="padding-top: 14px"><b>Verhaltensbiologie</b></a></li>
    
 
 bookdown::pdf_book:
