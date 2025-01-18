@@ -9,3 +9,10 @@ einleitung
 was-ist-ein-leitprogramm
 wie-funktioniert-ein-leitprogramm
 tab:nice-tab
+Glossar
+chapters-and-sub-chapters-1
+captioned-figures-and-tables-1
+allel
+an-unnumbered-section
+begrifflichkeiten
+ethnologie

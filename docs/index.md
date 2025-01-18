@@ -9,33 +9,18 @@ description: |
   auf gymnasialer Ebene. 
 ---
 
-# Einleitung
+# Einleitung {.unnumbered}
 
-This is a *sample* book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+Dieses Buch gibt eine Einführung in das Thema Verhaltensbiologie. Es ist als Leitprogramm strukturiert, welches Ihnen das selbständige arbeiten an einem Thema in Ihrem eigenen Tempo ermöglicht. 
 
-## Was ist ein Leitprogramm? 
+#### Was ist ein Leitprogramm? {.unnumbered}
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
-
-
-## Wie funktioniert ein Leitprogramm
+Ein Leitprogramm ist eine strukturierte Anleitung, mit der Sie eigenständig ein Thema bearbeiten können. Es führt Sie Schritt für Schritt durch Lernziele, Arbeitsaufträge und Materialien. 
 
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+#### Wie funktioniert ein Leitprogramm? {.unnumbered}
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+Ein Leitprogramm funktioniert so, dass es Sie Schritt für Schritt durch den Lernprozess führt. Sie beginnen mit einer Einführung, in der Ziele und Inhalte erklärt werden, bearbeiten systematisch Arbeitsaufträge und nutzen unterstützende Materialien wie Texte oder Videos. Zwischendurch überprüfen Sie Ihren Lernfortschritt mit Kontrollfragen oder Übungen. 
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
-
-
-
-
-``` r
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
-
-<div class="figure" style="text-align: center">
-<img src="index_files/figure-html/nice-fig-1.png" alt="Plot with connected points showing that vapor pressure of mercury increases exponentially as temperature increases." width="80%" />
-<p class="caption">(\#fig:nice-fig)Here is a nice figure!</p>
-</div>
+<br><br>
+**Viel Vergnügen bei der Erarbeitung des Themas!**
