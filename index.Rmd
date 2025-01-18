@@ -1,16 +1,25 @@
 ---
-title: "Verhaltensbiologie"
-author: "Samuel Tobler"
+title: "Verhaltensbiologie 🐝"
 site: bookdown::bookdown_site
+github-repo: "samueltobler/verhaltensbiologie"
 documentclass: book
 link-citations: yes
+description: |
+  Dieses Buch behandelt die Grundkonzepte der Verhaltensbiologie 
+  auf gymnasialer Ebene. 
 ---
 
-# About {.unnumbered}
+# Einleitung
 
 This is a *sample* book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
-## Usage {.unnumbered}
+## Was ist ein Leitprogramm? 
+
+Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+
+
+## Wie funktioniert ein Leitprogramm
+
 
 Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
 

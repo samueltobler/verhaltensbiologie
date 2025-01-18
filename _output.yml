@@ -2,19 +2,11 @@ bookdown::gitbook:
   css: style.css
   config:
     sharing: null
+    info: false
     lang: de
     toc:
       before: |
         <li><a href="./" style="padding-top: 14px"><b>Verhaltensbiologie</b></a></li>
-   
+      after: |
+        <li><a style="padding-top: 14px; font-size: small">Samuel Tobler</a></li>
 
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: true
-
-bookdown::epub_book:
-  style: epub.css
-  cover_image: cover.png
