@@ -6,3 +6,7 @@ language:
     fig: "Abbildung "
     tab: "Tabelle "
 output_dir: "docs"
+new_session: yes
+knitr:
+  opts_chunk:
+    fig.path: "figures/"
