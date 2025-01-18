@@ -5,3 +5,4 @@ language:
   label:
     fig: "Abbildung "
     tab: "Tabelle "
+output_dir: "docs"
