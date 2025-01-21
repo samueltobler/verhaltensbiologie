@@ -1,5 +1,12 @@
 # Begrifflichkeiten
 
+> **Note:** <br> Please refrain from using multiple `#` signs when writing annotations inside the code chunks as this could be interpreted by Bookdown as a new header instead of an annotation.
+
+
+:::lz
+**Lernziele**
+:::
+
 All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
 
 ## Ethnologie
