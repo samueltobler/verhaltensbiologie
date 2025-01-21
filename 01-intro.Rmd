@@ -1,11 +1,12 @@
 # Begrifflichkeiten
 
-> **Note:** <br> Please refrain from using multiple `#` signs when writing annotations inside the code chunks as this could be interpreted by Bookdown as a new header instead of an annotation.
-
-
-:::lz
-**Lernziele**
+::: lz
+<img src="https://cdn-icons-png.flaticon.com/128/3214/3214721.png" class="lz-icon">
+**Lernziele**<br>
+LZ1 <br> 
+LZ1 
 :::
+
 
 All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
 
@@ -16,3 +17,7 @@ All chapter sections start with a second-level (`##`) or higher heading followed
 ### An unnumbered section
 
 Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+
+
+> **Hinweis:** <br> Das ist ein Hinweis. 
+
