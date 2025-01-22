@@ -1,7 +1,7 @@
 # Begrifflichkeiten
 
 ::: lz
-<img src="https://cdn-icons-png.flaticon.com/128/3214/3214721.png" class="lz-icon">
+<img src="https://cdn-icons-png.flaticon.com/128/3138/3138297.png" class="lz-icon">
 **Lernziele**<br>
 LZ1 <br> 
 LZ1 
