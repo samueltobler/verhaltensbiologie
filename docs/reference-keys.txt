@@ -17,3 +17,16 @@ an-unnumbered-section
 begrifflichkeiten
 ethnologie
 Altruismus
+verwandtschaftsverhältnisse
+fig:fig4-1
+fig:fig3-1
+aufgaben-unnumbered
+altruistisches-verhalten-bei-bienen
+fig:fig3-2
+fig:fig3-3
+tab:unnamed-chunk-1
+tab:tab3-1
+der-bienenstock-eine-grossfamilie
+die-arbeit-als-wächterin
+fig:fig3-4
+interaktive-app
