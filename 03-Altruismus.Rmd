@@ -23,7 +23,7 @@ Der Verwandtschaftskoeffizient lässt sich demnach wie folgt berechnen: Die Wahr
 
 > **Beispiel:** $r$ für Individuen 1 und 3: Nur ein Weg ist möglich und zwei Schritte sind nötig. Daher ist $r=0.5^2=0.25$. Die Wahrscheinlichkeit, dass der Enkel ein bestimmtes Allel des Grossvaters besitzt, ist also $25$%. 
 
-### Wissen überprüfen
+### Wissen überprüfen {.unnumbered}
 
 > Lösen Sie folgenden Aufgaben selbstständig. Mit einem Stern (✦) markierte Aufgaben sind fakultativ. 
 > Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können. Überprüfen Sie diese dann mithilfe der Applikation unten.  
@@ -97,7 +97,7 @@ knitr::include_graphics('figures/fig3-4.png')
 ```
 
 
-### Wissen überprüfen
+### Wissen überprüfen und anwenden {.unnumbered}
 
 > Lösen Sie folgenden Aufgaben selbstständig. 
 > Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können. Überprüfen Sie diese dann mithilfe der Applikation unten.  
@@ -110,4 +110,45 @@ knitr::include_graphics('figures/fig3-4.png')
 
 <iframe src="https://stobler.shinyapps.io/verhaltensbiologie_kp3/" width="100%" height="600px" style="border: 1px;"></iframe>
 
+
+## Die Regel von Hamilton
+
+```{r fig3-5, fig.cap='Evolutionsbiologe William Hamilton in einem Seminar in Harvard, 1978.', out.width='40%', echo= F, fig.align= 'center'}
+knitr::include_graphics('figures/fig3-5.png')
+```
+
+Die Regel von William Hamilton (Abb. \@ref(fig:fig3-5)) zur Evolution von altruistischem Verhalten besagt, dass ein Verhalten dann vorteilhaft ist, wenn der genetische Gewinn durch die Verwandten die eigenen Kosten überwiegt. Dazu hat er folgende Regel aufgestellt: 
+
+$$
+N/K=k>1/r 
+$$
+
+mit $k$ als Verhältnis von Kosten $K$ und Nutzen $N$ und $r$ für den uns bereits bekannten Verwandtschaftskoeffizienten. Altruismus wird also gefördert, wenn das Kosten-Nutzen-Verhältnis grösser als der reziproke Wert des Verwandtschaftskoeffizienten ist. 
+
+### Wissen überprüfen und anwenden {.unnumbered}
+
+> Lösen Sie folgenden Aufgaben selbstständig. 
+> Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können. Überprüfen Sie diese dann mithilfe der Applikation unten.  
+
+**Aufgabe 1**. Welches Tier hat eine höhere Fitness, eines das auf 2 eigene Nachkommen verzichtet, dafür einem Geschwister hilft, 5 Nachkommen zu produzieren, oder ein Tier, das nicht hilft? (Annahme: diploide Art)
+
+**Aufgabe 2**. Wie sähe die Situation aus, wenn das erste Tier auf 3 Nachkommen verzichten müsste?
+
+<iframe src="https://stobler.shinyapps.io/verhaltensbiologie_kp3/" width="100%" height="600px" style="border: 1px;"></iframe>
+
+## Evolutionär stabile Strategien
+
+### Definition {.unnumbered}
+
+Das Verhalten der Arbeiterbienen, ihr Leben für den Schutz des eigenen Bienenvolkes zu opfern, stellt eine evolutionär stabile Strategie (ESS) dar. Diese Strategie gewährleistet lang-fristig das Überleben der Kolonie und eine erfolgreichere Reproduktion. Dadurch bleibt das Verhalten stabil, da es das Überleben und die Weitergabe der Gene ermöglicht. Daher ist in diesem Falle der Altruismus eine evolutionär stabile Strategie. 
+
+
+### Wissen anwenden {.unnumbered}
+
+> Lösen Sie folgenden Aufgaben selbstständig. 
+> Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können. Überprüfen Sie diese dann mithilfe der Applikation unten.  
+
+**Aufgabe 1**. Welche weiteren Formen nebst der Verwandtenselektion könnten Altruismus als evolutionär stabile Strategie etablieren? Nennen Sie mindestens 3. 
+
+<iframe src="https://stobler.shinyapps.io/verhaltensbiologie_kp3/" width="100%" height="600px" style="border: 1px;"></iframe>
 
