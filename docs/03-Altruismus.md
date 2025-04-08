@@ -97,7 +97,7 @@ Im Bienenstock übernehmen spezialisierte Arbeiterinnen die Rolle der Wächterin
 > Lösen Sie folgenden Aufgaben selbstständig. 
 > Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können. Überprüfen Sie diese dann mithilfe der Applikation unten.  
 
-**Aufgabe 1**. Die Kosten dieses der Wächterin Verhaltens könnten nicht höher sein. Erklären Sie mögliche Nutzen dieses Verhaltens im Kontext des Optimalitätsprinzips.
+**Aufgabe 1**. Die Kosten dieses Verhaltens der Wächterinnen könnten nicht höher sein. Erklären Sie mögliche Nutzen dieses Verhaltens im Kontext des Optimalitätsprinzips.
 
 **Aufgabe 2**. Das Verhalten der Wächterin wird oft als «altruistisch» bezeichnet. Stellen Sie eine Definition für dafür auf. Beziehen Sie sich dabei auf ultimate Verhaltensursachen. 
 
@@ -136,7 +136,7 @@ mit $k$ als Verhältnis von Kosten $K$ und Nutzen $N$ und $r$ für den uns berei
 
 ### Definition {.unnumbered}
 
-Das Verhalten der Arbeiterbienen, ihr Leben für den Schutz des eigenen Bienenvolkes zu opfern, stellt eine evolutionär stabile Strategie (ESS) dar. Diese Strategie gewährleistet lang-fristig das Überleben der Kolonie und eine erfolgreichere Reproduktion. Dadurch bleibt das Verhalten stabil, da es das Überleben und die Weitergabe der Gene ermöglicht. Daher ist in diesem Falle der Altruismus eine evolutionär stabile Strategie. 
+Das Verhalten der Arbeiterbienen, ihr Leben für den Schutz des eigenen Bienenvolkes zu opfern, stellt eine evolutionär stabile Strategie (ESS) dar. Diese Strategie gewährleistet langfristig das Überleben der Kolonie und eine erfolgreichere Reproduktion. Dadurch bleibt das Verhalten stabil, da es das Überleben und die Weitergabe der Gene ermöglicht. Daher ist in diesem Falle der Altruismus eine evolutionär stabile Strategie. 
 
 
 ### Wissen anwenden {.unnumbered}
@@ -148,3 +148,21 @@ Das Verhalten der Arbeiterbienen, ihr Leben für den Schutz des eigenen Bienenvo
 
 <iframe src="https://stobler.shinyapps.io/verhaltensbiologie_kp3/" width="100%" height="600px" style="border: 1px;"></iframe>
 
+## Mastery Check
+
+Testen Sie Ihr Wissen über die Inhalte dieses Kapitels anhand des Mastery Checks. Öffnen Sie dazu das unten verlinkte Formular und beantworten Sie die Fragen in Einzelarbeit. 
+
+Wenn Sie den Test bestanden haben, zeigen Sie das Resultat der Lehrperson und fahren Sie danach mit der Bearbeitung des nächsten Kapitels fort. Wenn Sie den Test nicht bestanden haben, identifizieren Sie entweder allein oder zusammen mit der Lehrperson diejenigen Aspekte, die Sie nochmals vertieft anschauen sollten, bevor Sie einen zweiten Versuch des Mastery Checks durchführen. 
+
+<br>
+<a href="dateien/mein_dokument.pdf" download style="
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #404f58;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+">
+  Test starten!
+</a>
