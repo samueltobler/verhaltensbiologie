@@ -148,7 +148,7 @@ Das Verhalten der Arbeiterbienen, ihr Leben für den Schutz des eigenen Bienenvo
 > Lösen Sie folgenden Aufgaben selbstständig. 
 > Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können. Überprüfen Sie diese dann mithilfe der Applikation unten.  
 
-**Aufgabe 1**. Welche weiteren Formen nebst der Verwandtenselektion könnten Altruismus als evolutionär stabile Strategie etablieren? Nennen Sie mindestens 3. 
+**Aufgabe 1**. Welche weiteren Formen nebst der Verwandtenselektion könnten Altruismus als evolutionär stabile Strategie etablieren? Nennen Sie mindestens 2. 
 
 <iframe src="https://stobler.shinyapps.io/verhaltensbiologie_kp3/" width="100%" height="600px" style="border: 1px;"></iframe>
 
