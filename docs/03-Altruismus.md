@@ -19,15 +19,17 @@ Der Verwandtschaftskoeffizient lässt sich demnach wie folgt berechnen: Die Wahr
 
 > **Beispiel:** $r$ für Individuen 1 und 3: Nur ein Weg ist möglich und zwei Schritte sind nötig. Daher ist $r=0.5^2=0.25$. Die Wahrscheinlichkeit, dass der Enkel ein bestimmtes Allel des Grossvaters besitzt, ist also $25$%. 
 
-### Aufgaben {.unnumbered}
+### Wissen überprüfen
 
-> Lösen Sie folgenden Aufgaben selbstständig auf ein zusätzliches (digitales) Blatt. Mit einem Stern (✦) markierte Aufgaben sind fakultativ.
+> Lösen Sie folgenden Aufgaben selbstständig. Mit einem Stern (✦) markierte Aufgaben sind fakultativ. Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können.
 
 **Aufgabe 1**. Erklären Sie die Formel $r=0.5^n$ in eigenen Worten. 
 
 **Aufgabe 2**. Berechnen Sie $r$ für Individuen 2 und 4, sowie Individuen 3 und 4. 
 
 **✦ Aufgabe 3**. Berechnen Sie r für Individuen 4 und 5.
+
+<iframe src="https://stobler.shinyapps.io/verhaltensbiologie_kp3/" width="100%" height="600px" style="border: 1px;"></iframe>
 
 <br>
 
@@ -83,9 +85,10 @@ Im Bienenstock übernehmen spezialisierte Arbeiterinnen die Rolle der Wächterin
 <p class="caption">(\#fig:fig3-4)Der Bienenstock.</p>
 </div>
 
-### Aufgaben {.unnumbered}
 
-> Lösen Sie folgenden Aufgaben selbstständig auf ein zusätzliches (digitales) Blatt. Mit einem Stern (✦) markierte Aufgaben sind fakultativ.
+### Wissen überprüfen
+
+> Lösen Sie folgenden Aufgaben selbstständig. Mit einem Stern (✦) markierte Aufgaben sind fakultativ. Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können.
 
 **Aufgabe 1**. Die Kosten dieses der Wächterin Verhaltens könnten nicht höher sein. Erklären Sie mögliche Nutzen dieses Verhaltens im Kontext des Optimalitätsprinzips.
 
@@ -93,11 +96,6 @@ Im Bienenstock übernehmen spezialisierte Arbeiterinnen die Rolle der Wächterin
 
 **Aufgabe 3**. Überlegen Sie sich, von welchen Faktoren «Fitness» im evolutiven Kontext abhängt. Was ist der Einfluss des altruistischen Verhaltens der Arbeiterinnen auf die Fitness?
 
-
-## Interaktive App
-
-Nutze folgende interaktive Applikation, um deine Fragen zu überprüfen.
-
-<iframe src="https://biotutor.shinyapps.io/fund2" width="100%" height="600px" style="border: 1px;"></iframe>
+<iframe src="https://stobler.shinyapps.io/verhaltensbiologie_kp3/" width="100%" height="600px" style="border: 1px;"></iframe>
 
 
