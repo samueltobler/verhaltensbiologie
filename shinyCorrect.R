@@ -37,6 +37,9 @@ ui <- fluidPage(
     ),
     
     actionButton("go_button", "Antwort überprüfen"),
+    
+    br(),br(),
+    p("Hinweis: Die Antworten werden automatisiert mithilfe von OpenAIs GPT-4o-Modell ausgewertet. Keine Daten werden gespeichert oder zu Trainingszwecken weiterverwendet.", style = "color: lightgrey; font-size: .7em" ),
     br(), br(),
     textOutput("result_output")
   )

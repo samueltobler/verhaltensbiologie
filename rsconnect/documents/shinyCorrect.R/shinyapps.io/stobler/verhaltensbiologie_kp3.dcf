@@ -5,7 +5,7 @@ account: stobler
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14459683
-bundleId: 10077188
+bundleId: 10077242
 url: https://stobler.shinyapps.io/verhaltensbiologie_kp3/
 version: 1
 asMultiple: FALSE

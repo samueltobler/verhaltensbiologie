@@ -21,7 +21,8 @@ Der Verwandtschaftskoeffizient lässt sich demnach wie folgt berechnen: Die Wahr
 
 ### Wissen überprüfen
 
-> Lösen Sie folgenden Aufgaben selbstständig. Mit einem Stern (✦) markierte Aufgaben sind fakultativ. Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können.
+> Lösen Sie folgenden Aufgaben selbstständig. Mit einem Stern (✦) markierte Aufgaben sind fakultativ. 
+> Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können. Überprüfen Sie diese dann mithilfe der Applikation unten.  
 
 **Aufgabe 1**. Erklären Sie die Formel $r=0.5^n$ in eigenen Worten. 
 
@@ -88,7 +89,8 @@ Im Bienenstock übernehmen spezialisierte Arbeiterinnen die Rolle der Wächterin
 
 ### Wissen überprüfen
 
-> Lösen Sie folgenden Aufgaben selbstständig. Mit einem Stern (✦) markierte Aufgaben sind fakultativ. Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können.
+> Lösen Sie folgenden Aufgaben selbstständig. Mit einem Stern (✦) markierte Aufgaben sind fakultativ. 
+> Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können. Überprüfen Sie diese dann mithilfe der Applikation unten.  
 
 **Aufgabe 1**. Die Kosten dieses der Wächterin Verhaltens könnten nicht höher sein. Erklären Sie mögliche Nutzen dieses Verhaltens im Kontext des Optimalitätsprinzips.
 
