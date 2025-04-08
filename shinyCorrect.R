@@ -16,9 +16,9 @@ ui <- fluidPage(
     style = "max-width: 800px; margin: 50px auto;",
     
     selectInput(
-      "selected_question",
-      "Wählen Sie die Aufgabe aus:",
+      "selected_question", label = NULL,
       choices = c(
+        "Aufgabe auswählen...",
         "Kapitel 3.1: Aufgabe 1",
         "Kapitel 3.1: Aufgabe 2",
         "Kapitel 3.1: Aufgabe 3",
@@ -28,7 +28,7 @@ ui <- fluidPage(
         "Kapitel 3.3: Aufgabe 1",
         "Kapitel 3.3: Aufgabe 2",
         "Kapitel 3.4: Aufgabe 1"
-      )
+      ), 
     ),
     
     textAreaInput(
@@ -52,6 +52,10 @@ ui <- fluidPage(
 server <- function(input, output, session) {
   
   user_text <- eventReactive(input$go_button, {
+    
+    if(input$selected_question == "Aufgabe auswählen...") {
+      instruction = paste(instruct.general, "Sag, man müsse die Frage zuerst auswählen.")
+    } 
     
     if(input$selected_question == "Kapitel 3.1: Aufgabe 1") {
       instruction = paste(instruct.general, "Erklären Sie die Formel r=0.5^n in eigenen Worten. ")
