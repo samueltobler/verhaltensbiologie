@@ -22,6 +22,12 @@ Ein Leitprogramm ist eine strukturierte Anleitung, mit der Sie eigenständig ein
 
 Ein Leitprogramm funktioniert so, dass es Sie Schritt für Schritt durch den Lernprozess führt. Sie beginnen mit einer Einführung, in der Ziele und Inhalte erklärt werden, bearbeiten systematisch Arbeitsaufträge und nutzen unterstützende Materialien wie Texte oder Videos. Zwischendurch überprüfen Sie Ihren Lernfortschritt mit Kontrollfragen oder Übungen. 
 
+
+
+#### Technische Voraussetzungen {.unnumbered}
+
+
+
 <br>
 
 #### Viel Vergnügen bei der Erarbeitung des Themas! {.unnumbered}
