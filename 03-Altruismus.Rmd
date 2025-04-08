@@ -2,6 +2,11 @@
 
 **Altruistisches Verhalten ist ein faszinierendes Phänomen, das auf den ersten Blick im Widerspruch zur individuellen Fitness steht. Ziel dieses Kapitels ist es, zu verstehen, wie solches Verhalten evolutionär erklärbar ist. Sie lernen, den Verwandtschaftsgrad zu berechnen, zwischen direkter und indirekter Fitness zu unterscheiden und den Begriff «Altruismus» einzuordnen. Zudem erfahren Sie, was eine evolutionär stabile Strategie ausmacht.**
 
+<br> 
+
+> **Lernziele:** Am Ende dieses Kapitels können Sie... <br>
+> - erklären, warum ...<br>
+> - darlegen, wie ...
 
 ## Verwandtschaftsverhältnisse
 
@@ -27,7 +32,7 @@ Der Verwandtschaftskoeffizient lässt sich demnach wie folgt berechnen: Die Wahr
 
 **Aufgabe 2**. Berechnen Sie $r$ für Individuen 2 und 4, sowie Individuen 3 und 4. 
 
-**✦ Aufgabe 3**. Berechnen Sie r für Individuen 4 und 5.
+**✦ Aufgabe 3**. Berechnen Sie $r$ für Individuen 4 und 5.
 
 <iframe src="https://stobler.shinyapps.io/verhaltensbiologie_kp3/" width="100%" height="600px" style="border: 1px;"></iframe>
 
@@ -94,7 +99,7 @@ knitr::include_graphics('figures/fig3-4.png')
 
 ### Wissen überprüfen
 
-> Lösen Sie folgenden Aufgaben selbstständig. Mit einem Stern (✦) markierte Aufgaben sind fakultativ. 
+> Lösen Sie folgenden Aufgaben selbstständig. 
 > Halten Sie Ihre Resultate fest, damit Sie später wieder darauf zurückgreifen können. Überprüfen Sie diese dann mithilfe der Applikation unten.  
 
 **Aufgabe 1**. Die Kosten dieses der Wächterin Verhaltens könnten nicht höher sein. Erklären Sie mögliche Nutzen dieses Verhaltens im Kontext des Optimalitätsprinzips.

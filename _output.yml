@@ -1,6 +1,7 @@
 bookdown::gitbook:
   css: style.css
   highlight: haddock
+  split_by: section
   config:
     sharing: null
     info: false
