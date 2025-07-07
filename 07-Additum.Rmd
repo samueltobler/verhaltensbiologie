@@ -1,4 +1,4 @@
-# Mathematische Aufarbeitung des Verwandtschaftskoeffizienten {#Zusatzkapitel}
+# Additum: Mathematische Aufarbeitung des Verwandtschaftskoeffizienten {#Zusatzkapitel}
 
 **Sind die Abstammungsverhältnisse von sich sexuell fortpflanzenden Organismen bekannt, kann der Verwandtschaftsgrad und damit der Verwandtschaftskoeffizient r bestimmt werden. Aufgrund der Komplexität des Themas werden im folgenden Anhang die Verwandtschaftskoeffizienten und -verhältnisse schrittweise im Bienenstock berechnet.**
 
