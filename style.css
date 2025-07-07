@@ -32,3 +32,11 @@ div.lz {
     height: auto;
     display: inline-block;
 }
+
+.figure {margin-top: 50px; margin-bottom: 50px}
+
+.figure .caption {
+  font-size: 0.8em; 
+}
+
+table .caption {font-size: 0.8em;}

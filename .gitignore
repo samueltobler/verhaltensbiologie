@@ -2,5 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
+rsconnect
 DidaktischeAnalyse.R
-private.R
+SHINY_APPS/private.R
+SHINY_APPS/SHINY_APPS.Rproj
+SHINY_APPS/Musterloesungen.xlsx
+SHINY_APPS/Musterloesungen.rds
+SHINY_APPS/Archiv
+rsconnect
