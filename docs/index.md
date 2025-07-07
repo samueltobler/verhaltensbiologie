@@ -31,7 +31,7 @@ Falls Sie über ein Google-Konto verfügen, können Sie direkt das Vorlagen-Doku
 
 
 
-<a href="http://bit.ly/4kldyCp" download style="
+<a href="https://docs.google.com/document/d/1rOaQIw5dcw_px7_1GkwB0MpJSOgQa1AXzLtaUTNm2_M/" download style="
   display: inline-block;
   padding: 10px 20px;
   font-size: 16px;
