@@ -99,3 +99,5 @@ fig:fig7-3
 der-verwandtschaftskoeffizient-eine-dritte-und-letzte-erweiterung
 fig:fig7-4
 fig:fig1
+ethogramme
+das-ethogramm-des-erdmännchens

@@ -8,8 +8,6 @@
 
 **Altruismus (biologisch).**&nbsp;&nbsp;&nbsp;&nbsp;Verhalten, das die eigene Fitness senkt, aber die einer anderen verwandten Individuen erhöht.
 
-**Analyse (induktiv/deduktiv).**&nbsp;&nbsp;&nbsp;&nbsp;Induktiv: vom Einzelnen zum Allgemeinen; deduktiv: vom Allgemeinen zum Einzelnen.
-
 **Beobachtungsstudie.**&nbsp;&nbsp;&nbsp;&nbsp;Strukturiertes Erfassen tierischen Verhaltens ohne direkte Beeinflussung.
 
 **Bienenstock.**&nbsp;&nbsp;&nbsp;&nbsp;Sozialsystem der Honigbienen mit Königin, Arbeiterinnen und Drohnen.
@@ -65,8 +63,6 @@
 **Königin (Honigbienen).**&nbsp;&nbsp;&nbsp;&nbsp;Fortpflanzungsfähiges Weibchen im Bienenstock.
 
 **Meiose.**&nbsp;&nbsp;&nbsp;&nbsp;Zellteilung zur Bildung von Geschlechtszellen mit halbem Chromosomensatz.
-
-**Mutterschafts-/Vaterschaftskoeffizient.**&nbsp;&nbsp;&nbsp;&nbsp;Verwandtschaftskoeffizient $r = 0.5$ bei direkter Linie zu Eltern.
 
 **Objektivität (Forschung).**&nbsp;&nbsp;&nbsp;&nbsp;Unabhängigkeit der Ergebnisse von persönlichen Meinungen.
 

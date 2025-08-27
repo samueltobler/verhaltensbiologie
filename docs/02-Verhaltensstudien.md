@@ -6,7 +6,7 @@
 
 >**Lernziele**
 >
->-	Sie können den Begriff «Ethnogramm» definieren und ohne Hilfsmittel dessen Bedeutung für die Verhaltensforschung in 1-2 Sätzen festhalten. 
+>-	Sie können den Begriff «Ethogramm» definieren und ohne Hilfsmittel dessen Bedeutung für die Verhaltensforschung in 1-2 Sätzen festhalten. 
 >
 >-	Sie können eine wissenschaftliche Fragestellung aus vorherigen Beobachtungen entwickeln und mithilfe einer Literaturrecherche eine plausible Hypothese formulieren, die überprüfbar ist. 
 >
@@ -16,7 +16,7 @@
 
 
 
-## Ethnogramme
+## Ethogramme
 
 Unabhängig davon, ob wir induktiv aus Beobachtungen eine Hypothese ableiten oder deduktiv eine bestehende Hypothese experimentell überprüfen möchten, benötigen wir eine objektive Methode, um Verhaltensmuster und -elemente präzise zu erfassen. Die systematische Auflistung dieser Verhaltenselemente bildet das sogenannte Ethogramm: ein Inventar der allermeisten beobachtbaren Verhaltensweisen eines Tieres (Abb. \@ref(fig:fig2-1)). Eine Verhaltensweise ist dabei ein klar abgrenzbares und wiedererkennbares Verhalten, das sich deutlich von anderen Verhaltensmustern unterscheidet. Das Ethogramm ermöglicht es, solche Verhaltensweisen in der Natur objektiv zu beschreiben und quantifizierbar zu machen.
 
@@ -60,7 +60,7 @@ Ethogramme sind stark abhängig von der Tierart, die untersucht werden soll. Exi
   }
 </script>
 
-## Das Ethnogramm des Erdmännchens
+## Das Ethogramm des Erdmännchens
 
 Verhaltensuntersuchungen am Erdmännchen (_Suricata suricatta_) gelten als besonders wertvoll, da diese Tiere in sozialen Gruppen leben und sich ihre Interaktionen dadurch systematisch beobachten und analysieren lassen (Abb. \@ref(fig:fig2-2)). Aus diesem Grund existieren bereits detaillierte Verhaltenskataloge, welche die unterschiedlichen Verhaltensmuster von Erdmännchen beschreiben.
 
@@ -138,7 +138,7 @@ Basierend auf eigenen Vorkenntnissen oder Erkenntnissen aus anderen Quellen form
 <p class="caption">(\#fig:fig2-3)Detailübersicht über den wissenschaftlichen Arbeitsprozess in der Verhaltensbiologie. Das induktive (rot) und deduktive Denken (blau) ergänzen sich dabei und werden besonders in der Verhaltensbiologie oft mehrfach durchlaufen. </p>
 </div>
 
-● **Aufgabe 3.** Überlegen Sie sich 2-3 eigene Fragestellungen, die man am Verhalten des Erdmännchens unter Einbezug des Ethnogramms (Tabelle \@ref(tab:tab2-1)) mit einfachen Mitteln untersuchen könnte. 
+● **Aufgabe 3.** Überlegen Sie sich 2-3 eigene Fragestellungen, die man am Verhalten des Erdmännchens unter Einbezug des Ethogramms (Tabelle \@ref(tab:tab2-1)) mit einfachen Mitteln untersuchen könnte. 
 
 ◑ **Aufgabe 4.** Um eine begründete Hypothese zu Ihrer Fragestellung aufstellen zu können, benötigen Sie Hintergrundwissen über das Verhalten von Erdmännchen. Als Vorbereitung auf die Exkursion (Kapitel 3) und die dazugehörige Verhaltensstudie bietet das unten verlinkte Video (Abb. \@ref(fig:fig2-4)) einen ersten Einblick in das Verhalten dieser Tiere. 
 
@@ -196,7 +196,7 @@ In der Fokustier-Methode wählen Sie ein spezifisches Tier aus und beobachten di
 
 ### Scan-Methode
 
-In der Scan-Methode beobachten Sie eine ganze Gruppe von Individuen über einen vorher definierten Zeitraum. In regelmässigen Zeitabständen (bspw. jede Minute bei hoher Aktivität oder alle 10 Minuten bei geringer Aktivität) wird dann das Verhalten jedes Individuums erfasst und in den Verhaltenskategorien (Ethnogramm) zusammengefasst. Dabei kann es hilfreich sein, den Moment in einem Foto oder kurzen Film festzuhalten, um so die Verhaltensmuster zu bestimmen. 
+In der Scan-Methode beobachten Sie eine ganze Gruppe von Individuen über einen vorher definierten Zeitraum. In regelmässigen Zeitabständen (bspw. jede Minute bei hoher Aktivität oder alle 10 Minuten bei geringer Aktivität) wird dann das Verhalten jedes Individuums erfasst und in den Verhaltenskategorien (Ethogramm) zusammengefasst. Dabei kann es hilfreich sein, den Moment in einem Foto oder kurzen Film festzuhalten, um so die Verhaltensmuster zu bestimmen. 
 
 ## Mastery Check
 

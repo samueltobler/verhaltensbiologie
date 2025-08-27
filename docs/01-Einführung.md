@@ -101,7 +101,7 @@ Am Ende eines wissenschaftlichen Experiments folgt die Interpretation der Result
 </div>
 
 
-◑ **Aufgabe 3.** Formuliere mindestens drei Aspekte, in denen sich das induktive und das deduktive Erforschen voneinander unterscheiden.
+◑ **Aufgabe 3.** Formulieren Sie mindestens drei Aspekte, in denen sich das induktive und das deduktive Erforschen voneinander unterscheiden.
 
 ◑ **Aufgabe 4.** Betrachten Sie die Bilderreihe in Abbildung \@ref(fig:fig1-2) und erläutern Sie, wie sich die dargestellten Schritte durch induktives und deduktives Schlussfolgern miteinander verbinden lassen. Stellen Sie dazu auch stichwortartig den Ablauf des wissenschaftlichen Arbeitens zusammen. 
 
