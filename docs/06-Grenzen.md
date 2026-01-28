@@ -17,8 +17,8 @@
 Denken wir an die Verwandtschaftskoeffizienten zurück, den wir im Bienenstock kennengelernt haben und den wir gebraucht haben, um altruistisches Verhalten aus evolutiver Perspektive zu erklären. Der Verwandtschaftskoeffizient $r$, der zeigt, wie nah zwei Individuen miteinander verwandt sind, spielt auch eine wichtige Rolle in verschiedenen mathematischen Modellen, wie der Regel von William Hamilton (Abb. \@ref(fig:fig6-1)). 
 
 <div class="figure" style="text-align: center">
-<img src="figures/fig6-1.png" alt="Evolutionsbiologe William Hamilton in einem Seminar in Harvard, 1978. Die Regel von Hamilton beschäftigt sich ebenfalls mit der Evolution von altruistischem Verhalten. " width="50%" />
-<p class="caption">(\#fig:fig6-1)Evolutionsbiologe William Hamilton in einem Seminar in Harvard, 1978. Die Regel von Hamilton beschäftigt sich ebenfalls mit der Evolution von altruistischem Verhalten. </p>
+<img src="figures/fig6-1.png" alt="Evolutionsbiologe William Hamilton in einem Seminar in Harvard, 1978. " width="50%" />
+<p class="caption">(\#fig:fig6-1)Evolutionsbiologe William Hamilton in einem Seminar in Harvard, 1978. </p>
 </div>
  
 Zur mathematischen Beschreibung von Altruismus formulierte Hamilton folgende Regel:
