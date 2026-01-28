@@ -104,10 +104,10 @@ Wenn wir die Verwandtschaftskoeffizienten der Arbeiterinnen genauer anschauen, s
 
 Table: (\#tab:tab5-1) Verwandtschaftskoeffizienten bei Honigbienen.
 
-| Verwandtschaft          | Bienenkönigin (Mutter) | Drohne (Vater) | Arbeiterin (Kind) mit gleichem Vater | Arbeiterin (Kind) mit unterschiedlichem Vater |
+| Verwandtschaft          | Bienenkönigin (Mutter) | Drohne (Vater) | Arbeiterin (Nachkomme) mit gleichem Vater | Arbeiterin (Nachkomme) mit unterschiedlichem Vater |
 |-------------------------|------------------------|----------------|--------------------------------------|------------------------------------------------|
-| Drohne (Kind)           | *r* = 1                | –              | *r* = 0.5                            | *r* = 0.5                                      |
-| Arbeiterin (Kind)       | *r* = 0.5              | *r* = 1        | *r* = 0.75                           | *r* = 0.25                                     |
+| Drohne (Nachkomme)           | *r* = 1                | –              | *r* = 0.5                            | *r* = 0.5                                      |
+| Arbeiterin (Nachkomme)       | *r* = 0.5              | *r* = 1        | *r* = 0.75                           | *r* = 0.25                                     |
 
 <br>
 
