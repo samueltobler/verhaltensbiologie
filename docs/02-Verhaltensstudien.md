@@ -171,7 +171,7 @@ Wählen Sie einen beliebigen Zeitpunkt im Video aus, beobachten Sie die Erdmänn
 
 #### Für die Erdmännchen-Begeisterten {.unnumbered}
 
-Für die Erdmännchen-Begeisterten. Wenn Sie vom Verhalten und der Lebensweise der Erdmännchen fasziniert sind, finden Sie auf YouTube zahlreiche sehenswerte Dokumentationen, zum Beispiel von BBC Earth, die das Leben dieser Tiere in der Wildnis eindrücklich zeigen – ideal zur Vertiefung ausserhalb der Schulzeit.
+Wenn Sie vom Verhalten und der Lebensweise der Erdmännchen fasziniert sind, finden Sie auf YouTube zahlreiche sehenswerte Dokumentationen, zum Beispiel von BBC Earth, die das Leben dieser Tiere in der Wildnis eindrücklich zeigen – ideal zur Vertiefung ausserhalb der Schulzeit.
 
 ## Methoden der Verhaltensforschung
 
