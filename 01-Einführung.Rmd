@@ -120,7 +120,7 @@ In diesem und den folgenden Kapiteln werden wir uns vor allem mit direkt beobach
 
 ## Hypothesen, Experimente und der wissenschaftliche Erkenntnisgewinn
 
-Was wir in den ersten Aufgaben dieses Kapitels erarbeitet haben, lässt sich bereits als Verhaltensuntersuchung bezeichnen. Dabei wurden mehrere konkrete Situation analysiert,um aus diesen Beobachtungen eine allgemeine Definition abzuleiten. In den Naturwissenschaften spricht man in diesem Zusammenhang vom **induktiven Schlussfolgern**.
+Was wir in den ersten Aufgaben dieses Kapitels erarbeitet haben, lässt sich bereits als Verhaltensuntersuchung bezeichnen. Dabei wurden mehrere konkrete Situation analysiert, um aus diesen Beobachtungen eine allgemeine Definition abzuleiten. In den Naturwissenschaften spricht man in diesem Zusammenhang vom **induktiven Schlussfolgern**.
 
 Beim induktiven Vorgehen geht man von einzelnen Beobachtungen aus und versucht, daraus allgemeine Aussagen oder Hypothesen abzuleiten. Durch das Sammeln und Analysieren von Beobachtungen lassen sich mithilfe logischer Kombinationen wichtige Erkenntnisse gewinnen. Da man dabei schrittweise von konkreten Fällen zu einer allgemeineren Schlussfolgerung gelangt, nennt man diese Form des Erkenntnisgewinns induktiv (lateinisch _in_ = hinein, _ducere_ = führen).
 
