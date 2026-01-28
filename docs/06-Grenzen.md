@@ -123,7 +123,7 @@ Die Arbeiten von Damore und Gore untersuchten experimentell kooperatives Verhalt
 
 > **Beispiel:**
 >
-> Gemäss einfacher Modelle würde man erwarten, dass sich bei einer Gruppenarbeit in der Schule alle gleich stark einbringen, da alle von einer guten Note profitieren. In der Realität hängt aber der tatsäliche Einsatz von verschiedensten Faktoren wie Motivation, Gruppenzusammensetzung und sozialen Einflüssen ab. Das Verhalten einzelner Personen wird also wahrscheinlich von der modellhaften Erwartung abweichen. 
+> Gemäss einfacher Modelle würde man erwarten, dass sich bei einer Gruppenarbeit in der Schule alle gleich stark einbringen, da alle von einer guten Note profitieren. In der Realität hängt aber der tatsächliche  Einsatz von verschiedensten Faktoren wie Motivation, Gruppenzusammensetzung und sozialen Einflüssen ab. Das Verhalten einzelner Personen wird also wahrscheinlich von der modellhaften Erwartung abweichen. 
 
 <br>
 
