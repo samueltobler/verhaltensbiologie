@@ -24,16 +24,30 @@ Die Merkmale aller Lebewesen sind das Ergebnis evolutiver Anpassungen an ihre Um
 
 Sobald die Tage im Frühling etwas wärmer werden und die Sonne wieder früher über den Horizont steigt, beginnen Amseln ihre melodischen Lieder zu singen. Dieses Verhalten ist eng mit den längeren Tagen zu dieser Jahreszeit verbunden. Wenn die Tage länger werden und die Lichtintensität steigt, nimmt das auch die Amsel über ihre Augen wahr. Diese visuellen Informationen werden im Gehirn kombiniert und beeinflussen die Regulation des Hormonhaushaltes. Die Ausschüttung von Hormonen wie Testosteron wird ausgelöst (Abb. \@ref(fig:fig4-1)). 
 
-Testosteron beeinflusst wiederum spezielle Gehirnregionen, die für das Erlernen und Ausführen von Gesang verantwortlich sind. Dieser Ablauf erklärt die proximalen Ursachen des Singverhaltens: Es sind die direkten, körperlichen Prozesse, die dafür sorgen, dass die Amsel singt.
+Testosteron beeinflusst wiederum spezielle Gehirnregionen, die für das Erlernen und Ausführen von Gesang verantwortlich sind. Dieser Ablauf erklärt die proximaten Ursachen des Singverhaltens: Es sind die direkten, körperlichen Prozesse, die dafür sorgen, dass die Amsel singt.
 
 Aber warum singt die Amsel überhaupt? Aus einer evolutionären Perspektive wird das deutlich: Der Gesang hilft der Amsel, ein Revier zu markieren. Wenn ein anderes Männchen das Lied hört, erkennt es, dass dieses Gebiet bereits besetzt ist, und bleibt im besten Fall fern. 
 
-Zudem ist der Gesang auch für den Fortpflanzungserfolg essenziell. Die weiblichen Amseln hören aufmerksam zu und beurteilen die Qualität des Gesangs. Ein Männchen, das besonders laut, oft und melodisch singt, zeigt damit, dass es gesund und stark ist. Das beeindruckt die Weibchen, die sich oft für einen Sänger mit dem besten Gesang entscheiden. Dieses Verhalten erhöht die Wahrscheinlichkeit, dass die Amsel ihre Gene weitergeben kann. Man spricht von ultimaten Ursachen des Verhaltens. 
+Zudem ist der Gesang auch für den Fortpflanzungserfolg essenziell. Die weiblichen Amseln hören aufmerksam zu und beurteilen die Qualität des Gesangs. Ein Männchen, das besonders laut, oft und melodisch singt, zeigt damit, dass es gesund und stark ist. Das beeindruckt die Weibchen, die sich oft für einen Sänger mit dem besten Gesang entscheiden. Dieses Verhalten erhöht die Wahrscheinlichkeit, dass die Amsel ihre Gene weitergeben kann. Man spricht von ultimaten Ursachen des Verhaltens, die sich im Kontext evolutiver Selektionsmechanismen einordnen lassen (siehe Box unten zur Repetition und Vertiefung dieser Konzepte).
+
+
 
 <div class="figure" style="text-align: center">
 <img src="figures/fig4-1.png" alt="Proximate und ultimate Ursachen des Gesangs der Amsel (_Turdus merula_). " width="80%" />
 <p class="caption">(\#fig:fig4-1)Proximate und ultimate Ursachen des Gesangs der Amsel (_Turdus merula_). </p>
 </div>
+
+
+<div class="exkurs">
+<div class="exkurs-title">Vertiefung: Selektionsmechanismen</div>
+Verhaltensweisen wie der Gesang der Amsel sind das Ergebnis evolutiver Selektionsprozesse. Dabei wirken unterschiedliche Mechanismen zusammen, die bestimmen, welche Merkmale sich in einer Population langfristig durchsetzen. Oft lassen sich Verhaltensweisen nur durch das Zusammenspiel von natürlicher und sexueller Selektion vollständig erklären.
+
+Merkmale, die das Überleben eines Individuums in seiner Umwelt begünstigen, sind mit einer höheren Fitness verbunden. Man spricht dabei von **natürlicher Selektion**. Beim Amselgesang kann dies beispielsweise die effektive Reviermarkierung sein, die Konkurrenz reduziert und den Zugang zu Ressourcen sichert.
+
+Merkmale, die den Fortpflanzungserfolg erhöhen, können sich auch dann durchsetzen, wenn sie mit Kosten verbunden sind, etwa durch erhöhten Energieaufwand oder ein höheres Prädationsrisiko. Man spricht also von **sexueller Selektion**. Der Gesang der Amsel dient unter anderem dazu, Weibchen anzuziehen und deren Partnerwahl zu beeinflussen.
+
+</div>
+
 
 ○ **Aufgabe 1.** Definieren Sie mithilfe der Informationen aus dem Text, was man unter proximaten und ultimaten Verhaltensweisen versteht.   
 
@@ -124,18 +138,20 @@ Besonders grosse und symmetrische Federn gelten bei Weibchen als attraktiv. Sie 
 
 ## Mastery Check: Warum Erdmännchen Wache stehen
 
-In Beobachtungsstudien wie derjenigen im Zoo findet die Erklärung der Resultate häufig auf der ultimaten Betrachtungsebene statt. Dabei beantworten wir Fragen wie «warum übernehmen die Erdmännchen abwechslungsweise die Rolle des Wächters ein?» oder «warum kommunizieren die Erdmännchen mit unterschiedlichen Lauten auf unterschiedliche Bedrohungen?». 
+In Beobachtungsstudien wie derjenigen im Zoo findet die Erklärung der Resultate häufig auf der ultimaten Betrachtungsebene statt. Dabei stehen Fragestellungen im Zentrum wie: «Warum übernehmen Erdmännchen abwechselnd die Rolle des Wächters?» oder «Warum kommunizieren Erdmännchen bei unterschiedlichen Bedrohungen mit verschiedenen Lauten?». Solche Fragen lassen sich nur beantworten, wenn das beobachtete Verhalten im evolutionären Kontext betrachtet wird.
+
 
 <br>
 
 **Aufgabe 7 | Mastery Check. **
 
-i.	Betrachten Sie Ihre eigene Fragestellung und die dazugehörigen Resultate aus der Zoo-Exkursion noch einmal genau und versuchen Sie, diese aus ultimater Perspektive zu erklären. Beziehen Sie dabei auch zusätzliche Beobachtungen aus Ihrem Protokoll mit ein, wie zum Beispiel: Fand kurz zuvor eine Fütterung statt? Stand eine lautstarke Besuchergruppe vor dem Gehege? Gab es Störungen durch Aussenreize wie Klopfen an die Scheiben? Nutzen Sie zur Unterstützung bei Bedarf auch das Internet oder Schulbücher, um Verhaltensweisen im evolutionären Kontext einzuordnen und ihre mögliche Funktion für Überleben und Fortpflanzung zu erklären.
+i. Betrachten Sie Ihre eigene Fragestellung und die dazugehörigen Resultate aus der Zoo-Exkursion erneut. Beschreiben Sie zunächst sachlich und ohne Interpretation, welche Verhaltensweisen Sie beobachtet haben, und beziehen Sie dabei auch zusätzliche Beobachtungen aus Ihrem Protokoll mit ein, wie zum Beispiel: Fand kurz zuvor eine Fütterung statt? Stand eine lautstarke Besuchergruppe vor dem Gehege? Gab es Störungen durch Aussenreize wie Klopfen an die Scheiben?
 
-ii.	Schauen Sie sich Ihre eigene Fragestellung und die dazugehörigen Resultate aus der Zoo-Exkursion genauer an und versuchen Sie diese aus ultimater Betrachtungsweise zu erklären. Lassen Sie dazu auch Ihre zusätzlichen Beobachtungen aus dem Protokoll mit einfliessen (bspw. ob gerade eine Fütterung vor der Beobachtung stattfand, ob eine Kindergartenklasse vor dem Gehege stand und an die Scheiben klopfte). Sie können dazu auch das Internet oder Schulbücher zu Hilfe nehmen. 
+ii.	Formulieren Sie anschliessend eine oder mehrere Hypothesen, mit denen Sie das beobachtete Verhalten aus ultimativer Betrachtungsweise erklären könnten. Lassen Sie dazu auch Ihre zusätzlichen Beobachtungen aus dem Protokoll mit einfliessen. Kennzeichnen Sie diese Erklärungen ausdrücklich als Hypothesen und begründen Sie sie jeweils mit konkreten Beobachtungen oder bekannten biologischen Prinzipien. Nutzen Sie bei Bedarf Schulbücher oder seriöse Internetquellen, um mögliche evolutionäre Funktionen des Verhaltens einzuordnen.
 
-iii.	Machen Sie mithilfe Ihres Wissens über das Optimalitätsprinzip eine Kosten-Nutzen-Analyse des beobachteten Verhaltens. 
+iii.	Führen Sie darauf aufbauend mithilfe des Optimalitätsprinzips eine Kosten-Nutzen-Analyse durch. Beschränken Sie sich dabei auf Kosten und Nutzen, die aus Ihren Beobachtungen oder aus allgemein bekannten biologischen Zusammenhängen ableitbar sind.
 
-iv.	Reflektieren Sie, was an Ihrer Beobachtungsstudie gut funktioniert hat und was Sie das nächste Mal anders machen würden. Gehen Sie dabei auch darauf ein, ob die gewählte Methode erlaubte, die Fragestellung zu beantworten. 
+iv.	Reflektieren Sie, was an Ihrer Beobachtungsstudie gut funktioniert hat und was Sie das nächste Mal anders machen würden. Gehen Sie dabei insbesondere darauf ein, ob die gewählte Methode geeignet war, die Fragestellung zu beantworten. 
 
-v.	Zeigen Sie diese Interpretation der Ergebnisse der Lehrperson (Mastery Check), um zu überprüfen, ob Sie die Konzepte dieses Kapitels verstanden haben. 
+v. Zeigen Sie diese Auswertung der Lehrperson (Mastery Check), um zu überprüfen, ob Ihre Schlussfolgerungen durch Beobachtungen gestützt sind und die Konzepte dieses Kapitels korrekt verstanden wurden.
+

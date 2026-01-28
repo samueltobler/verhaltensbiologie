@@ -6,9 +6,11 @@ library(dplyr)
 
 
 # Daten einlesen
-#data <- read_xlsx(path = "Musterloesungen.xlsx")
+#data <- read_xlsx(path = "SHINY_APPS/Musterloesungen.xlsx")
 #data <- data[which(data$Musterlösung != "Aufgabe ohne Musterlösung."), ]
-#saveRDS(data, "musterloesungen.rds")
+#saveRDS(data, "SHINY_APPS/musterloesungen.rds")
+#data <- readRDS("SHINY_APPS/musterloesungen.rds")
+
 data <- readRDS("musterloesungen.rds")
 possible_combinations <- paste(data$Kapitel, as.character(data$Aufgabe))
 

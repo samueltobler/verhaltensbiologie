@@ -1,6 +1,6 @@
 # Referenzen {#Referenzen .unnumbered}
 
-**Folgende Referenzen wurden zur Erstellung der Inhalte dieses Buchs verwendet.**
+**Folgende Referenzen wurden zur Erstellung der Inhalte dieses Buchs verwendet:**
 
 ### Quellenverzeichnis{.unnumbered}
 
@@ -14,6 +14,8 @@ Ernst Klett Verlag GmbH, Stuttgart.
 - **Kappeler, P. M.** (2012). Verhaltensbiologie. Heidelberg: Springer.
 
 - **Lamprecht**, Langlet und Schröder (2002). Verhaltensbiologie im Unterricht, Neue Ergebnisse - Neue Konzepte. Aulis Verlag Deubner, Köln.
+
+- **Manser, M. B.**, Jansen, D. A., Graw, B., Hollén, L. I., Bousquet, C. A., Furrer, R. D., & Le Roux, A. (2014). Vocal complexity in meerkats and other mongoose species. In Advances in the Study of Behavior (Vol. 46, pp. 281-310). Academic Press.
 
 - **Nowak, M. A.**, McAvoy, A., Allen, B., & Wilson, E. O. (2017). The general form of Hamilton’s rule makes no predictions and cannot be tested empirically. Proceedings of the National Academy of Sciences, 114(22), 5665-5670.
 
@@ -60,6 +62,7 @@ Ernst Klett Verlag GmbH, Stuttgart.
 #### Kapitel 6 {.unnumbered}
 
 - Abb. 6.1: Sarah Blaffer Hrdy, 1978
+- Abb. 6.2: bulvaik, 2025 / Sora
 
 
 #### Kapitel 7 {.unnumbered}

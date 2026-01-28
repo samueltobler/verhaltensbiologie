@@ -101,3 +101,5 @@ fig:fig7-4
 fig:fig1
 ethogramme
 das-ethogramm-des-erdmännchens
+abschluss-der-unterrichtseinheit
+fig:fig6-2

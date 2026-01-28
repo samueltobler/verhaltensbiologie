@@ -11,9 +11,7 @@ description: |
 
 # Einleitung {.unnumbered}
 
-Diese digitale Unterrichtseinheit dient als Einführung in das Thema Verhaltensbiologie. Sie ist als Leitprogramm aufgebaut, das Ihnen ermöglicht, selbstständig und in Ihrem eigenen Tempo an den Inhalten zu arbeiten.
-
-
+Diese digitale Unterrichtseinheit dient als Einführung in das Thema Verhaltensbiologie. Sie ist als Leitprogramm aufgebaut und ermöglicht Ihnen, anhand verhaltensbiologischer Fragestellungen das naturwissenschaftliche Denken und Arbeiten zu erlernen, während Sie selbstständig und in Ihrem eigenen Tempo an den Inhalten arbeiten.
 
 ### Was ist ein Leitprogramm und wie funktioniert es? {.unnumbered}
 

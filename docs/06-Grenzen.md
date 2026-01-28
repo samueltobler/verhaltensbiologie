@@ -14,26 +14,20 @@
 
 ## Die Regel von Hamilton
 
-Denken wir zurück an den Verwandtschaftskoeffizienten, den wir im Bienenstock kennengelernt haben und den wir gebraucht haben, um altruistisches Verhalten aus evolutiver Perspektive zu erklären. Der Verwandtschaftskoeffizient $r$, der zeigt, wie nah zwei Individuen miteinander verwandt sind, spielt auch eine wichtige Rolle in verschiedenen mathematischen Modellen, wie der Regel von William Hamilton (Abb. \@ref(fig:fig6-1)). 
+Denken wir an die Verwandtschaftskoeffizienten zurück, den wir im Bienenstock kennengelernt haben und den wir gebraucht haben, um altruistisches Verhalten aus evolutiver Perspektive zu erklären. Der Verwandtschaftskoeffizient $r$, der zeigt, wie nah zwei Individuen miteinander verwandt sind, spielt auch eine wichtige Rolle in verschiedenen mathematischen Modellen, wie der Regel von William Hamilton (Abb. \@ref(fig:fig6-1)). 
 
 <div class="figure" style="text-align: center">
 <img src="figures/fig6-1.png" alt="Evolutionsbiologe William Hamilton in einem Seminar in Harvard, 1978. Die Regel von Hamilton beschäftigt sich ebenfalls mit der Evolution von altruistischem Verhalten. " width="50%" />
 <p class="caption">(\#fig:fig6-1)Evolutionsbiologe William Hamilton in einem Seminar in Harvard, 1978. Die Regel von Hamilton beschäftigt sich ebenfalls mit der Evolution von altruistischem Verhalten. </p>
 </div>
  
-Zur mathematischen Beschreibung vom Altruismus hat Hamilton folgende Regel aufgestellt: 
+Zur mathematischen Beschreibung von Altruismus formulierte Hamilton folgende Regel:
 
-$N/K > 1/r$
+$r * N > K \tag{6.1}$
 
-mit $k$ als Verhältnis von Kosten $K$ und Nutzen $N$ und $r$ für den uns bereits bekannten Verwandtschaftskoeffizienten. Die Regel besagt also, dass Altruismus dann gefördert wird, wenn das Kosten-Nutzen-Verhältnis grösser als der reziproke Wert des Verwandtschaftskoeffizienten ist. Oder in anderen Worten, wenn der Nutzen, dem anderen Individuum mit dem Verwandtschaftsverhältnis $r$, zu helfen, x-mal grösser ist als die Kosten dieses Verhaltens, dann wird dieses Altruistische Verhalten ausgeführt. 
+Dabei steht $K$ für die Kosten und $N$ für den Nutzen eines Verhaltens; $r$ bezeichnet den Verwandtschaftskoeffizienten. Die Regel besagt, dass sich altruistisches Verhalten evolutionär durchsetzen kann, wenn der durch den Verwandtschaftsgrad gewichtete Nutzen grösser ist als die Kosten für das handelnde Individuum.
 
-Die Regel besagt also, dass Altruismus dann evolutionär begünstigt wird, wenn der Nutzen für das begünstigte Individuum, multipliziert mit dem Verwandtschaftskoeffizienten $r$, grösser ist als die Kosten für das helfende Individuum.
-
-Oder anders formuliert: Ein altruistisches Verhalten wird ausgeführt, wenn der Nutzen ($N$), den ein verwandtes Individuum daraus zieht, im Verhältnis zu den eigenen Kosten ($K$) grösser ist, sodass gilt:
-
-$r * N > K$
-
-Das heisst: Je näher verwandt zwei Individuen sind, desto grösser dürfen die Kosten sein, damit sich das Verhalten trotzdem aus evolutionärer Sicht «lohnt».
+Die Regel besagt also, dass je näher zwei Individuen miteinander verwandt sind, desto höher dürfen die Kosten eines altruistischen Verhaltens sein, damit es sich aus evolutionärer Sicht dennoch «lohnt».
 
 <br>
 
@@ -115,15 +109,31 @@ Hamiltons Regel ist ein bekanntes Beispiel für den Einsatz mathematischer Model
 
 Doch gerade hier liegt auch eine zentrale Herausforderung: Mathematische Regeln wie jene von Hamilton können leicht den Eindruck erwecken, dass sich Verhalten voraussagen lässt, so als ob biologische Systeme rein mechanistisch funktionieren würden. Diese Vorstellung ist jedoch irreführend. Die Realität in der Biologie ist dynamisch, vielschichtig und stark kontextabhängig. Faktoren wie Umweltbedingungen, soziale Strukturen, genetische Variation und Zufall spielen eine grosse Rolle und lassen sich nicht immer in eine einzige Gleichung fassen.
 
-Die Arbeiten von Damore und Gore zeigen exemplarisch, dass klassische Modelle aus dem 20. Jahrhundert zwar hilfreich sind, um Daten zu ordnen und Hypothesen zu entwickeln, aber auch Risiken bergen. Werden solche Modelle zu stark verallgemeinert oder kausal interpretiert, können sie zu Fehlverständnissen führen. Gerade in der Didaktik ist es wichtig, solche Limitationen aufzuzeigen: Modelle sind Werkzeuge, keine Abbildungen der Wirklichkeit. Sie erklären Teilbereiche, aber nicht das ganze Bild.
+<br>
 
-Ein reflektierter Umgang mit mathematischen Regeln in der Verhaltensbiologie bedeutet also, ihre Nützlichkeit anzuerkennen, ohne sie zu überschätzen. Sie bieten eine Perspektive auf das Verhalten von Organismen, ist aber nicht die einzige. Für ein tieferes Verständnis braucht es auch experimentelle, beobachtende und vergleichende Methoden, die der Komplexität biologischer Systeme besser gerecht werden.
+> **Beispiel:**
+>
+> Hamiltons Regel würde vorhersagen, dass ein Tier einem nahen Verwandten hilft, wenn der genetische Nutzen die Kosten übersteigt. In der Realität kann dasselbe Tier jedoch in einer Stresssituation, bei Nahrungsmangel oder unter starkem Feinddruck anders reagieren, als es das Modell erwarten lässt. Das Modell beschreibt also eine Tendenz, nicht eine feste Handlungsanweisung.
+
+<br>
+
+Die Arbeiten von Damore und Gore untersuchten experimentell kooperatives Verhalten in biologischen Systemen und nutzten dabei klassische mathematische Modelle zur Analyse der Daten. Ihre Ergebnisse zeigten, dass diese Modelle zwar hilfreich sind, um Daten zu ordnen und Hypothesen zu entwickeln, die Komplexität realer biologischer Systeme jedoch nur teilweise abbilden. Werden solche Modelle zu stark verallgemeinert oder kausal interpretiert, können sie zu Fehlverständnissen führen. Besonders in der Verhaltensbiologie ist es wichtig, solche Limitationen aufzuzeigen: Modelle sind Werkzeuge, keine Abbildungen der Wirklichkeit. Sie erklären Teilbereiche, aber nicht das ganze Bild.
+
+<br>
+
+> **Beispiel:**
+>
+> Gemäss einfacher Modelle würde man erwarten, dass sich bei einer Gruppenarbeit in der Schule alle gleich stark einbringen, da alle von einer guten Note profitieren. In der Realität hängt aber der tatsäliche Einsatz von verschiedensten Faktoren wie Motivation, Gruppenzusammensetzung und sozialen Einflüssen ab. Das Verhalten einzelner Personen wird also wahrscheinlich von der modellhaften Erwartung abweichen. 
+
+<br>
+
+Ein reflektierter Umgang mit mathematischen Regeln in der Verhaltensbiologie bedeutet also, ihre Nützlichkeit anzuerkennen, ohne sie zu überschätzen. Solche Regeln bieten eine Perspektive auf das Verhalten von Organismen, stellen aber nicht die einzigen Erklärungen dar. Für ein tieferes Verständnis braucht es auch experimentelle, beobachtende und vergleichende Methoden, die der Komplexität biologischer Systeme besser gerecht werden.
 
 <br>
 
 ◑ **Aufgabe 3.** Ihr Freund sagt Ihnen folgendes «Die Regel von Hamilton zeigt, ob sich ein Verhalten lohnt und ob es sich im Verlauf der Evolution tatsächlich durchsetzt.». Stimmen Sie ihm zu? Begründen Sie Ihre Antwort. 
 
-◑ **Aufgabe 4.** Vergleiche mathematische Modelle wie Hamiltons Regel mit der biologischen Realität in der Verhaltensforschung bezüglich folgender Aspekte: Ziel, Kausalität und Vorhersagbarkeit.
+◑ **Aufgabe 4.** Vergleichen Sie mathematische Modelle wie Hamiltons Regel mit der biologischen Realität in der Verhaltensforschung bezüglich folgender Aspekte: Ziel, Kausalität und Vorhersagbarkeit.
 
 ● **Aufgabe 5.** Welche Risiken entstehen, wenn mathematische Modelle in der Biologie als kausale Erklärungen verstanden werden?
 
@@ -175,4 +185,13 @@ Ein reflektierter Umgang mit mathematischen Regeln in der Verhaltensbiologie bed
 → Mastery Check: Kapitel 6
 </a>
 
+## Abschluss der Unterrichtseinheit
 
+Sie haben nun den obligatorischen Teil dieser Unterrichtseinheit abgeschlossen – herzliche Gratulation. Im Verlauf dieser Einheit haben Sie sich mit zentralen Konzepten der Verhaltensbiologie beschäftigt und dabei gelernt, Verhalten systematisch zu beobachten, Hypothesen zu formulieren und biologische Erklärungen kritisch einzuordnen. Wenn dabei Fragen offen geblieben sind oder einzelne Aspekte unklar sind, wenden Sie sich bitte an Ihre Lehrperson. 
+
+Wenn Sie zusätzlich Zeit und Interesse haben, können Sie sich im Additum (Kapitel 7) weiter vertiefen und dort die mathematische Aufarbeitung des Verwandtschaftskoeffizienten durcharbeiten, um die in dieser Einheit behandelten Konzepte weiter zu vertiefen.
+
+<div class="figure" style="text-align: center">
+<img src="figures/fig6-2.png" alt="Das Bienen-Kleiderschrank-Dilemma." width="50%" />
+<p class="caption">(\#fig:fig6-2)Das Bienen-Kleiderschrank-Dilemma.</p>
+</div>

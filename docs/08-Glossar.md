@@ -48,7 +48,7 @@
 
 **Hypothese.**&nbsp;&nbsp;&nbsp;&nbsp;Begründete Vermutung, die überprüfbar ist.
 
-**Infantizid.**&nbsp;&nbsp;&nbsp;&nbsp;Töten von Nachkommen, z. B. zur Ressourcenersparnis.
+**Infantizid.**&nbsp;&nbsp;&nbsp;&nbsp;Töten von Nachkommen der eigenen Art, z. B. zur Ressourcenersparnis.
 
 **Induktion / induktives Vorgehen.**&nbsp;&nbsp;&nbsp;&nbsp;Ableiten allgemeiner Aussagen aus Einzelbeobachtungen.
 
@@ -62,19 +62,19 @@
 
 **Königin (Honigbienen).**&nbsp;&nbsp;&nbsp;&nbsp;Fortpflanzungsfähiges Weibchen im Bienenstock.
 
-**Meiose.**&nbsp;&nbsp;&nbsp;&nbsp;Zellteilung zur Bildung von Geschlechtszellen mit halbem Chromosomensatz.
+**Meiose.**&nbsp;&nbsp;&nbsp;&nbsp;Kernteilung zur Bildung von Geschlechtszellen mit halbem Chromosomensatz.
 
 **Objektivität (Forschung).**&nbsp;&nbsp;&nbsp;&nbsp;Unabhängigkeit der Ergebnisse von persönlichen Meinungen.
 
 **Optimalitätsprinzip.**&nbsp;&nbsp;&nbsp;&nbsp;Verhalten setzt sich durch, wenn Nutzen die Kosten übersteigt.
 
-**Ploidiegrad.**&nbsp;&nbsp;&nbsp;&nbsp;Anzahl Chromosomensätze in einem Organismus.
+**Ploidiegrad.**&nbsp;&nbsp;&nbsp;&nbsp;Anzahl Chromosomensätze in einer Zelle.
 
 **Proximale Ursache.**&nbsp;&nbsp;&nbsp;&nbsp;Unmittelbare mechanistische Ursache eines Verhaltens.
 
 **Scan-Methode.**&nbsp;&nbsp;&nbsp;&nbsp;Simultane Beobachtung einer Gruppe in Intervallen.
 
-**Selektionsmechanismus.**&nbsp;&nbsp;&nbsp;&nbsp;Evolutionärer Prozess zur Veränderung von Merkmalshäufigkeit.
+**Selektionsmechanismus.**&nbsp;&nbsp;&nbsp;&nbsp;Evolutionärer Prozess, der zur Veränderung der Häufigkeit von Merkmalen in einer Population führt.
 
 **Sexuelle Selektion.**&nbsp;&nbsp;&nbsp;&nbsp;Selektion basierend auf Fortpflanzungserfolg durch Partnerwahl.
 

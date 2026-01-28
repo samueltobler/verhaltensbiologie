@@ -65,9 +65,9 @@ Der Verwandtschaftskoeffizient lässt sich demnach wie folgt berechnen: Die Wahr
 
 ## Der Verwandtschaftsgrad diploider Organismen
 
-Für diploide Organismen, die sich sexuell fortpflanzen, kann der Verwandtschaftsgrad durch den Verwandtschaftskoeffizienten $r$ anhand der Formel $r=(0.5)^n$ wobei $n$ die Anzahl Generationen darstellt, die zwischen zwei Individuen mit gemeinsamer Abstammung liegen. Zudem rechnen wir mit dem Faktor 0.5, da in diploiden Organismen nur die Hälfte des Genoms von einem Elternteil vererbt wird. Welche Merkmalsausprägungen (resp. welches Set an Chromosomen) vererbt werden wird zufällig in der Meiose entschieden. 
+Für diploide Organismen, die sich sexuell fortpflanzen, kann der Verwandtschaftsgrad durch den Verwandtschaftskoeffizienten $r$ anhand der Formel $r=(0.5)^n$ berechnet werden, wobei $n$ die Anzahl Generationen darstellt, die zwischen zwei Individuen mit gemeinsamer Abstammung liegen. Zudem rechnen wir mit dem Faktor 0.5, da in diploiden Organismen nur die Hälfte des Genoms von einem Elternteil vererbt wird. Welche Merkmalsausprägungen (resp. welches Set an Chromosomen) vererbt werden, wird zufällig in der Meiose entschieden. 
 
-Im Folgenden werden wir folgenden vereinfachten Stammbaum einer fiktiven Familie betrachten. Ihre Aufgabe ist es, diese Beispiele genau durchzuarbeiten und versuchen zu verstehen. Melden Sie sich bei Fragen bei der Lehrperson. 
+Im Folgenden werden wir einen vereinfachten Stammbaum einer fiktiven Familie betrachten. Ihre Aufgabe ist es, diese Beispiele genau durchzuarbeiten. Melden Sie sich bei Fragen bei der Lehrperson. 
 
 <div class="figure" style="text-align: center">
 <img src="figures/fig7-2.png" alt="Verschiedene Verwandtschaftsgrad-Berechnungen in einem fiktiven Familienstammbaum." width="90%" />
@@ -98,7 +98,7 @@ Wenn wir wieder die Verbindungen (Generationenschritte) betrachten, kommen wir f
 
 Wenn Sie 50% Ihres Genoms von Ihrer Mutter haben, und diese 50% ihres Genoms mit ihrer Schwester, also Ihrer Tante teilt, so stimmt Ihr Genom zu 25% mit dem Genom Ihrer Tante überein.
 
-Sobald man diese Schritte allerdings für entferntere Verwandte machen muss, kann es schnell sehr mühsam werden. Deshalb hilft auch in diesem Beispiel die Formel $r=(0.5)^n$. Auch in diesem Beispiel lässt sich nämlich der Weg der Gene von Ihrer Tante zu Ihnen nachverfolgen, einmal über Ihre Grossmutter und einmal über Ihren Grossvater. Wir haben also 2 Wege mit je 3 Generationen, die überwunden werden. Mit unserer Formel ergibt das $r=(0.5)^3+(0.5)^3=0.125+0.125$ → $r=0.25$. Wir kommen wieder auf dasselbe Resultat, allerdings etwas schneller.
+Sobald man diese Schritte allerdings für entferntere Verwandte machen muss, kann es schnell sehr mühsam werden. Deshalb hilft auch hier die Formel $r=(0.5)^n$. In diesem Beispiel lässt sich nämlich der Weg der Gene von Ihrer Tante zu Ihnen nachverfolgen, einmal über Ihre Grossmutter und einmal über Ihren Grossvater. Wir haben also 2 Wege mit je 3 Generationen, die überwunden werden. Mit unserer Formel ergibt das $r=(0.5)^3+(0.5)^3=0.125+0.125$ → $r=0.25$. Wir kommen wieder auf dasselbe Resultat, allerdings etwas schneller.
 
 <br>
 
@@ -134,7 +134,7 @@ Sobald man diese Schritte allerdings für entferntere Verwandte machen muss, kan
 
 ## Der Verwandtschaftskoeffizient – eine erste Erweiterung
 
-Wir haben also gesehen, dass die Formel $r=(0.5)^n$ sehr praktisch, um zu berechnen, wie nah zwei Individuen miteinander verwandt sind. Dies funktioniert allerdings nur so einfach, wenn die Verbindung direkt gemacht wird. Sobald man in der Generationenebene zurück muss, wie beispielsweise über die Grosseltern, um das Verhältnis Nichte-Tante zu beobachten, genügt die Formel nicht mehr. In diesem Fall muss man den Koeffizienten für jeden möglichen Weg berechnen. Daraus ergibt sich also: 	
+Wir haben also gesehen, dass die Formel $r=(0.5)^n$ sehr praktisch sein kann, um zu berechnen, wie nah zwei Individuen miteinander verwandt sind. Dies funktioniert allerdings nur so einfach, wenn die Verbindung direkt gemacht wird. Sobald man in der Generationenebene zurück muss, wie beispielsweise über die Grosseltern, um das Verhältnis Nichte-Tante zu beobachten, genügt die Formel nicht mehr. In diesem Fall muss man den Koeffizienten für jeden möglichen Weg berechnen. Daraus ergibt sich also: 	
 
 $r = 0.5^n \tag{7.1}$
 
@@ -144,11 +144,13 @@ $r = \sum_{i=1}^{k} 0.5^{n_i} \tag{7.2}$
 
 wenn direkte und indirekte Verwandtschaften (also nur in eine Richtung laufend oder via Weg über einen Vorfahren) vorkommen. Dabei ist $k$ die maximale Anzahl Varianten oder Wege, über welche man im Stammbaum vom einen zum anderen Individuum gelangen kann, und $n_i$ die Anzahl Generationsschritte, mit welcher man in Variante $i$ von einem Individuum zum anderen gelangt. 
 
+Diese Formel berücksichtigt, dass zwei Individuen über mehrere mögliche Wege im Stammbaum miteinander verwandt sein können. Jeder dieser Wege trägt einen Teil zum gesamten Verwandtschaftsgrad bei und wird deshalb separat berechnet und anschliessend addiert (siehe auch Abb. \@ref(fig:fig7-2)C im vorherigen Kapitel).
+
 <br>
 
 **Beispiel 1: Verwandtschaftsgrad zwischen Ihnen und Ihrer Grossmutter mütterlicherseits**
 
-Wir haben gehen im Stammbaum immer nur in eine Richtung, weshalb eine direkte Verwandtschaft vorherrscht. Es sind zwei Generationen (die erste zu Ihrer Mutter, die zweite zu Ihnen), weshalb $n=2$ ist. Dadurch ergibt sich mit Formel 7.1: $r=(0.5)^2$.
+Wir gehen im Stammbaum immer nur in eine Richtung, weshalb eine direkte Verwandtschaft vorherrscht. Es sind zwei Generationen (die erste zu Ihrer Mutter, die zweite zu Ihnen), weshalb $n=2$ ist. Dadurch ergibt sich mit Formel 7.1: $r=(0.5)^2$.
 
 <br>
 
@@ -201,9 +203,9 @@ Auch hier kann der Stammbaum zeitlich nicht nur in eine Richtung gelesen werden.
 
 Wie wir im vorherigen Kapitel gesehen haben, gilt diese Formel für diploide Organismen. Deshalb ist auch der multiplizierte Faktor 0.5. Nur die Hälfte des Genoms wird an die nächste Generation vererbt. Anders sieht es allerdings aus, wenn wir nicht mehr diploide, sondern haploide Organismen betrachten. 
 
-Im einfachsten Fall stammt also das haploide Kind von einem haploiden Elternteil ab. welches ebenfalls von einem haploiden Elternteil abstammt. Da in diesem Fall keine Meiose stattfindet, erben alle Kinder das gleiche Erbgut wie die jeweiligen Eltern, welche ebenfalls das komplette Genom ihrer Eltern geerbt haben. Man hat also eine Klonierung haploider Organismen. 
+Im einfachsten Fall stammt also das haploide Kind von einem haploiden Elternteil ab, welches ebenfalls von einem haploiden Elternteil abstammt. Da in diesem Fall keine Meiose stattfindet, erben alle Kinder das gleiche Erbgut wie die jeweiligen Eltern, welche ebenfalls das komplette Genom ihrer Eltern geerbt haben. Man hat also eine Klonierung haploider Organismen. 
 
-Die Verwandtschaftsverhältnisse sind intuitiv klar: man hat einen Verwandtschaftsgrad von 100%, da die Kindsgeneration die exakt gleichen Gene tragen. Mathematisch kann man hingegen die Formeln nicht mehr anwenden. Um eine allgemeingültige Formel zu erhalten, müssen wir daher Formel 7.2 (als allgemeinere Form der Formel 7.1) entsprechend anpassen: 
+Die Verwandtschaftsverhältnisse sind intuitiv klar: man hat einen Verwandtschaftsgrad von 100%, da die Kindsgeneration die exakt gleichen Gene trägt. Mathematisch kann man hingegen die Formeln nicht mehr anwenden. Um eine allgemeingültige Formel zu erhalten, müssen wir daher Formel 7.2 (als allgemeinere Form der Formel 7.1) entsprechend anpassen: 
 
 $r = \sum_{i=1}^{k} P^{n_i} \tag{7.3}$
 
@@ -211,7 +213,7 @@ mit $P$ als den Kehrwert des Ploidiegrads (Anzahl vorhandener Chromosomensätze)
 
 Für den Verwandtschaftsgrad im haploiden Beispiel ergibt sich folglich vom Grosselternteil zu Elternteil $r=1^1=1$, da $P=1$ und $n=1$ Generation; für den Verwandtschaftsgrad von Elternteil zu Enkelkind ergibt sich $r=1^2=1$ mit $n =2$ Generationsschritte. Dass das Resultat das gleiche ist, macht ebenfalls Sinn, da es sich um Klone handelt. 
 
-Die ursprünglich eingeführte Formel 7.2 erlaubt daher zwar in simplen Beispielen den Verwandtschaftsgrad zwischen zwei Individuen zu berechnen, stösst allerdings ziemlich schnell an seine Grenzen, wenn auf mehr als nur eine Art die Verwandtschaft erklärt werden kann oder wenn die Individuen nicht diploid sind. Die allgemeingültigere Formel 7.3 für den Verwandtschaftsgrad (oder Verwandtschaftskoeffizienten) muss deshalb angepasst werden; mit $r$ als Verwandtschaftskoeffizienten, $k$ als maximale Anzahl Wege, um Verwandtschaft zu erklären, $n_i$ als Anzahl Generationsschritte eines Weges $i$, und $P$ als den Kehrwert des Ploidiegrades, mit $P=1$ bei haploiden und $P=0.5$ bei diploiden Organismen.
+Die ursprünglich eingeführte Formel 7.2 erlaubt daher zwar in simplen Beispielen den Verwandtschaftsgrad zwischen zwei Individuen zu berechnen, stösst allerdings ziemlich schnell an ihre Grenzen, wenn auf mehr als nur eine Art die Verwandtschaft erklärt werden kann oder wenn die Individuen nicht diploid sind. Die allgemeingültigere Formel 7.3 für den Verwandtschaftsgrad (oder Verwandtschaftskoeffizienten) muss deshalb angepasst werden; mit $r$ als Verwandtschaftskoeffizienten, $k$ als maximale Anzahl Wege, um Verwandtschaft zu erklären, $n_i$ als Anzahl Generationsschritte eines Weges $i$, und $P$ als den Kehrwert des Ploidiegrades, mit $P=1$ bei haploiden und $P=0.5$ bei diploiden Organismen.
 
 Mithilfe der erarbeiteten Formeln können nun die Verwandtschaftsverhältnisse auch in komplexeren Systemen wie dem Bienenstock betrachtet werden. Im Bienenstock gibt es folgende Bienen: 
 
@@ -266,7 +268,7 @@ Was in allen Tieren gleich ist, ist, dass die Königin durch Meiose haploide Eie
 
 ## Der Verwandtschaftskoeffizient – eine dritte und letzte Erweiterung 
 
-Um der Situation gerecht zu werden, dass nicht alle Generationswege $n_i$ den gleichen Ploidiegrad $P$ haben müssen, muss also unsere Formel entsprechend angepasst werden. Aus Beispiel der Drohnen und Arbeiterinnen derselben Mutter kann man schliessen, dass die Drohnen zwar mit der Mutter einen Verwandtschaftsgrad von $r=1$ haben und die Arbeiterinnen mit der Mutter $r=0.5$. Wenn in beiden Schritten diploide Individuen vorkämen, dann ginge die Formel mit $r$ als das Multiplikationsprodukt der beiden Wahrscheinlichkeiten auf ($r=0.5*0.5=(0.5)^2$). 
+Um der Situation gerecht zu werden, dass nicht alle Generationswege $n_i$ den gleichen Ploidiegrad $P$ haben müssen, muss also unsere Formel entsprechend angepasst werden. Als Beispiel der Drohnen und Arbeiterinnen derselben Mutter kann man schliessen, dass die Drohnen zwar mit der Mutter einen Verwandtschaftsgrad von $r=1$ haben und die Arbeiterinnen mit der Mutter $r=0.5$. Wenn in beiden Schritten diploide Individuen vorkämen, dann ginge die Formel mit $r$ als das Multiplikationsprodukt der beiden Wahrscheinlichkeiten auf ($r=0.5*0.5=(0.5)^2$). 
 
 Da wir aber nun einen Ploidiewechsel in den zwei Generationsschritten (n=2) haben, entsteht in unserer Formel ein Widerspruch $r=1*0.5 ≠(0.5)^n=(0.5)^2$. Viel eher müsste man also das Produkt der Einzelwahrscheinlichkeiten (d.h. der Ploidiegrade) der einzelnen Schritte betrachten. Die angepasste Formel lautete daher: 
 
@@ -288,7 +290,7 @@ Aufgrund dessen, dass die Drohnen einen Verwandtschaftsgrad von 100% mit der Mut
 
 Der letzte Vergleich, der jetzt noch fehlt, um die Tabelle im Kapitel 5.2 zu vervollständigen, ist derjenige zwischen Arbeiterinnen mit gleichen und unterschiedlichen Vätern. Dies werden wir zusammen an Beispielen erarbeiten. Versuchen Sie dabei, die Schritte genau nachzuvollziehen. 
 
-### Verwandtschaftsgrad zwischen zwei Arbeiterinnen. {.unnumbered}
+### Verwandtschaftsgrad zwischen zwei Arbeiterinnen {.unnumbered}
 
 Da der Vater haploid ist und seine Spermien daher keine Meiose durchlaufen, erben alle Nachkommen des Vaters die gleichen Gene. Väterlicherseits haben Arbeiterinnen also einen Verwandtschaftsgrad von 100% ($r=1^1=1$ mit $P= n=k=1$). Der Verwandtschaftsgrad mütterlicherseits haben wir bereits im vorherigen Kapitel berechnet. 
 
@@ -300,13 +302,13 @@ Um nun den Verwandtschaftsgrad zwischen zwei Arbeiterinnen zu berechnen, müssen
 
 Wenn die Arbeiterinnen die gleiche Mutter, aber unterschiedliche Väter haben, dann gibt es nur den Weg über die Mutter, um die Verwandtschaftsverhältnisse zu erklären ($k=1$) (Abb. \@ref(fig:fig7-4)A). 
 
-Der Verwandtschaftsgrad lässt sich also wie folgt berechnen: Es gibt hierbei einen Generationenwechsel mit $n=2$ Generationenschritten. Wir haben keinen Ploidiewechsel, da beide Schritte über die Mutter zu den Arbeiterinnen geben, wobei alle diploid sind ($P_j=0.5$). Es folgt also (ohne die Summenformel, da $k=1$): $r = \prod_{j=1}^{2} P_j = \prod_{j=1}^{2} 0.5 = 0.5^2 = 0.25$
+Der Verwandtschaftsgrad lässt sich also wie folgt berechnen: Es gibt hierbei einen Generationenwechsel mit $n=2$ Generationenschritten. Wir haben keinen Ploidiewechsel, da beide Schritte über die Mutter zu den Arbeiterinnen gehen, wobei alle diploid sind ($P_j=0.5$). Es folgt also (ohne die Summenformel, da $k=1$): $r = \prod_{j=1}^{2} P_j = \prod_{j=1}^{2} 0.5 = 0.5^2 = 0.25$
 
 Dadurch ergibt sich, dass Arbeiterinnenschwestern mit unterschiedlichem Vater einen Verwandtschaftsgrad von 25% aufweisen. Sie sind also Halbschwestern. Diese Berechnung bestätigt die intuitive Beobachtung von Halbschwestern bei diploiden Organismen.
 
  
 <div class="figure" style="text-align: center">
-<img src="figures/fig7-3.png" alt="Abstammungsverhältnisse der Arbeiterinnen im Bienenstock im Vergleich mit dem Vater." width="70%" />
+<img src="figures/fig7-4.png" alt="Abstammungsverhältnisse der Arbeiterinnen im Bienenstock im Vergleich mit dem Vater." width="70%" />
 <p class="caption">(\#fig:fig7-4)Abstammungsverhältnisse der Arbeiterinnen im Bienenstock im Vergleich mit dem Vater.</p>
 </div>
 
@@ -320,7 +322,7 @@ Wenn der Vater der Arbeiterinnen der gleiche ist, dann gibt es zwei Wege, um die
 
 ◑ **Aufgabe 9.** Vergleichen Sie den Verwandtschaftsgrad zwischen Schwestern mit dem Verwandtschaftsgrad mit eigenen Kindern von Arbeiterinnen. Was fällt Ihnen diesbezüglich auf?
 
-● **Aufgabe 10.** Nur jene Bienenlarven, die dauerhaft mit Gelee Royal, eine nährstoffreiche Substanz, gefüttert werden, können sich zu neuen Königinnen entwickeln. Deren Schwesterlarven entwickeln sich zu Arbeiterinnen. Welche Konsequenz hat dies auf das Verhältnis zwischen Arbeiterin und Königin in der nächsten Generation der Bienen im Bienenstock?
+● **Aufgabe 10.** Nur jene Bienenlarven, die dauerhaft mit Gelee Royal, einer nährstoffreichen Substanz, gefüttert werden, können sich zu neuen Königinnen entwickeln. Deren Schwesterlarven entwickeln sich zu Arbeiterinnen. Welche Konsequenz hat dies auf das Verhältnis zwischen Arbeiterin und Königin in der nächsten Generation der Bienen im Bienenstock?
 
 ● **Aufgabe 11.** Welche Auswirkungen könnten diese Verwandtschaftsverhältnisse auf das Verhalten der Bienen im Kontext der biologischen Fitness haben?
 

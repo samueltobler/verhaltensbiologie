@@ -62,12 +62,29 @@ Ethogramme sind stark abhängig von der Tierart, die untersucht werden soll. Exi
 
 ## Das Ethogramm des Erdmännchens
 
-Verhaltensuntersuchungen am Erdmännchen (_Suricata suricatta_) gelten als besonders wertvoll, da diese Tiere in sozialen Gruppen leben und sich ihre Interaktionen dadurch systematisch beobachten und analysieren lassen (Abb. \@ref(fig:fig2-2)). Aus diesem Grund existieren bereits detaillierte Verhaltenskataloge, welche die unterschiedlichen Verhaltensmuster von Erdmännchen beschreiben.
+Verhaltensuntersuchungen am Erdmännchen (_Suricata suricatta_) gelten als besonders wertvoll, da diese Tiere in sozialen Gruppen leben und sich ihre Interaktionen dadurch systematisch beobachten und analysieren lassen (Abb. \@ref(fig:fig2-2)). 
 
 <div class="figure" style="text-align: center">
-<img src="figures/fig2-2.png" alt="Erdmännchen (_Suricata suricatta_) sind im südlichen Regionen Afrikas beheimatet und leben in kleinen Gruppen. " width="80%" />
-<p class="caption">(\#fig:fig2-2)Erdmännchen (_Suricata suricatta_) sind im südlichen Regionen Afrikas beheimatet und leben in kleinen Gruppen. </p>
+<img src="figures/fig2-2.png" alt="Erdmännchen (_Suricata suricatta_) sind in südlichen Regionen Afrikas beheimatet und leben in kleinen Gruppen. " width="80%" />
+<p class="caption">(\#fig:fig2-2)Erdmännchen (_Suricata suricatta_) sind in südlichen Regionen Afrikas beheimatet und leben in kleinen Gruppen. </p>
 </div>
+
+In diesem Forschungsbereich wurde daher bereits umfangreiche Arbeit geleistet, um die verschiedenen Verhaltensweisen systematisch zu erfassen. Ein wesentlicher Beitrag dazu stammt von Marta Manser, Professorin an der Universität Zürich, die das Verhalten, die Kognition und die Kommunikation von Erdmännchen untersucht. Im Zentrum ihrer Forschung steht, wie diese Tiere Informationen austauschen und dadurch ihr Verhalten in ihrer natürlichen Umgebung koordinieren, etwa bei der Nahrungssuche, der Feinderkennung und -abwehr sowie für den Zusammenhalt der Gruppe. Entsprechend existieren heute detaillierte Verhaltenskataloge, die die unterschiedlichen Verhaltensmuster von Erdmännchen beschreiben.
+
+<br>
+
+<div class="exkurs">
+<div class="exkurs-title">Exkurs: Einblick in die Forschung von Marta Manser</div>
+
+In einer Studie aus dem Jahr 2014 untersuchte Marta Manser gemeinsam mit ihrem Forschungsteam die Lautkommunikation von Erdmännchen und anderen Mangustenarten. Sie zeigte, dass Erdmännchen über ein besonders vielfältiges Repertoire an Rufen verfügen, das sie gezielt in unterschiedlichen Situationen einsetzen, etwa bei der Nahrungssuche, zur Warnung vor Feinden oder zur Koordination innerhalb der Gruppe.
+
+Manser konnte nachweisen, dass sich diese Rufe in ihrer Struktur unterscheiden und verschiedene Informationen übermitteln können, zum Beispiel wie gefährlich eine Situation ist. Die übrigen Gruppenmitglieder reagieren entsprechend angepasst. Durch den Vergleich mit anderen Mangustenarten zeigte sie zudem, dass sozial lebende Arten eine deutlich komplexere Kommunikation entwickelt haben.
+
+Solche klar unterscheidbaren Verhaltens- und Lautmuster bilden die Grundlage für Ethogramme, in denen das Verhalten von Erdmännchen systematisch erfasst, beschrieben und vergleichbar gemacht wird.
+</div>
+
+<br>
+
 
 ○ **Aufgabe 2.** Ein Verhaltenskatalog des Erdmännchens ist in der Tabelle \@ref(tab:tab2-1) unten vereinfacht dargestellt. Schauen Sie sich diesen genau durch und versuchen Sie nachzuvollziehen, was die unterschiedlichen Verhaltensmuster zeigen könnten. 
 
@@ -93,41 +110,13 @@ Table: (\#tab:tab2-1) Auswahl an Verhaltenselementen und deren Ausprägungsvaria
 | Dominanzverhalten      | Aggressiv dominant (drohen, aufrichten, beissen, kämpfen), unterwürfig (ducken, Rückenlage) |
 | Komfortverhalten       | Ruhen und schlafen, Selbstpflege (putzen, kratzen)                                 |
 
-<br>
-
-<a href="javascript:void(0);" onclick="toggleIframe2()" style="
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  background-color: #404f58;
-  color: white;
-  border-radius: 5px;
-  text-decoration: none;
-">→ Antworten mit KI überprüfen</a>
-
-<div id="iframe-container2" style="display: none; margin-top: 10px;">
-  <iframe src="https://stobler.shinyapps.io/verhaltensbiologie" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-</div>
-
-
-<script>
-  function toggleIframe2() {
-    var container = document.getElementById("iframe-container2");
-    if (container.style.display === "none") {
-      container.style.display = "block";
-    } else {
-      container.style.display = "none";
-    }
-  }
-</script>
-
 
 
 ## Fragestellungen entwickeln 
 
 Mithilfe eines Ethogramms lassen sich bereits erste Verhaltensexperimente mit Tieren durchführen. Die systematische Beobachtung tierischer Verhaltensweisen anhand dieses Verhaltenskatalogs spielt dabei eine zentrale Rolle.
 
-Diese Art der Beobachtung unterscheidet sich deutlich vom beiläufigen Beobachten von Amseln im Wald oder Chirurgenfischen im Meer. Es handelt sich vielmehr um einen aktiven Prozess: gezieltes Suchen, präzises Beschreiben und strukturiertes Dokumentieren ohne das Verhalten vorschnell zu interpretieren. Im Zentrum steht stets eine klare Fragestellung, auf die das Beobachtungsprotokoll ausgerichtet ist.
+Diese Art der Beobachtung unterscheidet sich deutlich vom beiläufigen Beobachten von Amseln im Wald oder Chirurgenfischen im Meer. Es handelt sich vielmehr um einen aktiven Prozess: gezieltes Suchen, präzises Beschreiben und strukturiertes Dokumentieren, ohne das Verhalten vorschnell zu interpretieren. Im Zentrum steht stets eine klare Fragestellung, auf die das Beobachtungsprotokoll ausgerichtet ist.
 
 Solche Fragestellungen ergeben sich häufig aus ersten eigenen Beobachtungen oder aus den Ergebnissen früherer wissenschaftlicher Untersuchungen. In Beobachtungsstudien geht es meist darum herauszufinden, wie, wann oder wo bestimmte Verhaltensweisen auftreten. Als Beispiel könnte man untersuchen, wo die Tiere schlafen, ob sich dieses Verhalten im Winter verändert und wie sie reagieren, wenn plötzlich eine Gefahr auftritt.
 
@@ -182,7 +171,7 @@ Wählen Sie einen beliebigen Zeitpunkt im Video aus, beobachten Sie die Erdmänn
 
 #### Für die Erdmännchen-Begeisterten {.unnumbered}
 
-Für die Erdmännchen-Begeisterten. Wenn Sie ebenso fasziniert vom Verhalten und der Lebensweise der Erdmännchen sind, finden Sie auf YouTube zahlreiche sehenswerte Dokumentationen, zum Beispiel von BBC Earth, die das Leben dieser Tiere in der Wildnis eindrücklich zeigen – ideal zur Vertiefung ausserhalb der Schulzeit.
+Für die Erdmännchen-Begeisterten. Wenn Sie vom Verhalten und der Lebensweise der Erdmännchen fasziniert sind, finden Sie auf YouTube zahlreiche sehenswerte Dokumentationen, zum Beispiel von BBC Earth, die das Leben dieser Tiere in der Wildnis eindrücklich zeigen – ideal zur Vertiefung ausserhalb der Schulzeit.
 
 ## Methoden der Verhaltensforschung
 

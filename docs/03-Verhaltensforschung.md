@@ -1,14 +1,20 @@
 # Verhaltensforschung im Zoo {#Verhaltensforschung}
 
-**Um das Gelernte auch praktisch anzuwenden, werden Sie eigenständig eine kleine Verhaltensstudie im Zoo durchführen. Da dies eine Exkursion ist, bearbeiten dieses Kapitel alle Schüler:innen der Klasse zur gleichen Zeit. Wenn Sie also schon vor der Exkursion in diesem Kapitel angelangt sind, springen Sie direkt zum nächsten und fahren Sie mit dem Kapitel 4 fort.**
 
-<br>
+**Um das Gelernte auch praktisch anzuwenden, werden Sie in Zweiergruppen eine kleine Verhaltensstudie im Zoo durchführen. Da dies eine Exkursion ist, bearbeiten dieses Kapitel alle Schüler:innen der Klasse zur gleichen Zeit. **
+
+<div class="exkurs">
+<div class="exkurs-title">Hinweis</div>
+Wenn Sie also schon vor der Exkursion in diesem Kapitel angelangt sind, springen Sie direkt zum nächsten und fahren Sie mit dem Kapitel 4 fort.
+</div>
+
+
 
 >**Lernziele**
 >
 >-	Sie können mithilfe Ihres Wissens über die Verhaltensbiologie und Verhaltensexperimente eine Beobachtungsstudie durchführen und Ihre Resultate systematisch und objektiv in einem Protokoll festhalten. 
 >
->-	Sie können auffällige Umweltfaktoren, die das Verhalten der Tiere beeinflussen könnte, nennen und bei der Beobachtungststudie im Zoo dokumentieren.  
+>-	Sie können auffällige Umweltfaktoren, die das Verhalten der Tiere beeinflussen könnten, nennen und bei der Beobachtungststudie im Zoo dokumentieren.  
 >
 >-	Sie können die erhobenen Daten strukturieren, um Haupterkenntisse daraus abzuleiten. 
 
@@ -18,7 +24,7 @@
 
 Der Zoo Zürich hat mit der Eröffnung der Lewa-Savanne eine Anlage für Erdmännchen gebaut, die aus einem durch Fenster erkundbaren Innenteil und einem Aussenteil aufgebaut ist (Abb. \@ref(fig:fig3-1)). Aus den ursprünglich drei Tieren, die 2020 im Gehege freigesetzt worden sind, lebt heute dort eine Population von rund 20 Tieren. 
 
-Während der Exkursion in den Zoo Zürich werden Sie die eine der eigenen Fragestellungen und Hypothesen an der Erdmännchen-Anlage selbstständig anhand kleiner Beobachtungsstudien überprüfen.
+Während der Exkursion in den Zoo Zürich werden Sie eine der eigenen Fragestellungen und Hypothesen an der Erdmännchen-Anlage selbstständig anhand kleiner Beobachtungsstudien überprüfen.
 
 <div class="figure" style="text-align: center">
 <img src="figures/fig3-1.png" alt="Die Erdmännchen-Anlage des Zoo Zürich." width="80%" />
@@ -27,7 +33,7 @@ Während der Exkursion in den Zoo Zürich werden Sie die eine der eigenen Frages
 
 ## Vorbereitung der Verhaltensstudie
 
-Benutzen Sie zum Protokollieren Ihrer Ergebnisse der Verhaltensbeobachtung die unten verlinkte Google Sheets-Datei. Um dieses zu benutzen, melden Sie sich in Ihrem Account an, wählen Sie in der oberen Leiste «Datei» aus und klicken Sie auf «Kopie erstellen». Falls Sie lieber mit Microsoft Excel arbeiten möchten, erstellen Sie das Protokoll gemäss der Vorlage im Protokoll unten (siehe auch Abb. \@ref(fig:fig3-2)). Übertragen Sie in dieses Dokument auch Ihre Fragestellung und Hypothese, die Sie im Kapitel 2 erarbeitet haben. Das Protokoll müssen Sie am Ende der Exkursion digital abgeben. 
+Benutzen Sie zum Protokollieren Ihrer Ergebnisse der Verhaltensbeobachtung die unten verlinkte Google Sheets-Datei. Um diese Datei zu benutzen, melden Sie sich in Ihrem Account an, wählen Sie in der oberen Leiste «Datei» aus und klicken Sie auf «Kopie erstellen». Falls Sie lieber mit Microsoft Excel arbeiten möchten, erstellen Sie das Protokoll gemäss der Vorlage im Protokoll unten (siehe auch Abb. \@ref(fig:fig3-2)). Übertragen Sie in dieses Dokument auch Ihre Fragestellung und Hypothese, die Sie im Kapitel 2 erarbeitet haben. Das Protokoll müssen Sie am Ende der Exkursion digital abgeben. Es genügt, wenn eine Person pro Gruppe dieses Protokoll führt. 
 
 Um die eigene Fragestellung zu untersuchen, müssen Sie folgende Sachen zur Exkursion in den Zoo mitbringen:  
 
@@ -57,17 +63,17 @@ Um die eigene Fragestellung zu untersuchen, müssen Sie folgende Sachen zur Exku
 
 <br>
 <div class="figure" style="text-align: center">
-<img src="figures/fig3-2.png" alt="Übersicht über die Protokolle der Fokustier- und der Scan-Methode." width="80%" />
-<p class="caption">(\#fig:fig3-2)Übersicht über die Protokolle der Fokustier- und der Scan-Methode.</p>
+<img src="figures/fig3-2.png" alt="Übersicht über die Protokolle der Scan- und der Fokustier-Methode." width="80%" />
+<p class="caption">(\#fig:fig3-2)Übersicht über die Protokolle der Scan- und der Fokustier-Methode.</p>
 </div>
 
 ## Ablauf der Beobachtungsstudie
 
-Befolgen Sie während der Beobachtungsstudie folgende Schritte.
+Befolgen Sie während der Beobachtungsstudie folgende Schritte:
 
 1.	Wählen Sie ein einzelnes Tier oder eine kleine Gruppe von Tieren als Beobachtungseinheit.
 
-2.	Halten Sie systematisch fest, welche Verhaltensweisen (gemäss Ethogramm) gezeigt werden, und halten Sie diese dem Protokoll entsprechend schriftlich fest.
+2.	Halten Sie systematisch fest, welche Verhaltensweisen (gemäss Ethogramm) gezeigt werden, und halten Sie diese im Protokoll schriftlich fest.
 
 3.	Achten Sie darauf, die Beobachtungen objektiv zu beschreiben – also ohne Interpretation oder Wertung.
 

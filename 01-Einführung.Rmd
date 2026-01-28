@@ -1,6 +1,6 @@
 # Einführung in die Verhaltensbiologie {#Einführung}
 
-**Wenn wir auf unserem Handy bereits zum zweiten Mal die «Snooze»-Taste gedrückt haben, bevor wir uns in Eile den Rucksack schultern und aus dem Haus rennen, um noch rechtzeitig das Tram zu erwischen, haben wir bereits zahlreiche Verhaltensmuster gezeigt. In diesem Kapitel gehen wir der Frage nach, was in der Biologie unter Verhalten verstanden wird und wie sich dieses beobachten und messen lässt.**
+**Wenn wir auf unserem Handy bereits zum zweiten Mal die «Snooze»-Taste gedrückt haben, bevor wir in Eile unseren Rucksack schultern und aus dem Haus rennen, um noch rechtzeitig das Tram zu erwischen, haben wir bereits zahlreiche Verhaltensmuster gezeigt. In diesem Kapitel gehen wir der Frage nach, was in der Biologie unter Verhalten verstanden wird und wie sich dieses beobachten und messen lässt.**
 
 <br>
 
@@ -35,8 +35,8 @@ knitr::include_graphics('figures/fig1-1.png')
 
 -	Ein Oktopus ändert blitzschnell seine Hautfarbe zur Tarnung
 
-<br>
 
+<br> 
 <a href="javascript:void(0);" onclick="toggleIframe()" style="
   display: inline-block;
   padding: 10px 20px;
@@ -74,36 +74,80 @@ Vielleicht haben Sie in Ihrer eigenen Definition die oben genannten Situationen 
 ## Verhalten definieren
 Wie Verhalten definiert wird, hängt stark vom jeweiligen Kontext ab. Selbst innerhalb der Biologie existieren unterschiedliche Zugänge. Die Definition, auf die wir uns in diesem Leitprogramm stützen, lautet wie folgt:
 
+
+<div class="exkurs">
+<div class="exkurs-title">Definition</div>
+
 Verhalten bezeichnet die beobachtbare Aktivität eines Lebewesens, die in der Regel eine kurzfristige, reversible Veränderung von Bewegungen, Körperstellungen, räumlichen Orientierungen oder Ausdrucksformen darstellt. Es ist häufig eine Reaktion auf innere Zustände oder äussere Reize und kann zielgerichtet oder reflexartig erfolgen.
+</div>
 
-Unsere vier Beispiele sind bewusst so gewählt, dass wir auch mit der hier vorgestellten Definition von Verhalten an deren Grenzen stossen. Das Öffnen der Blüte ist zwar eine beobachtbare Reaktion auf einen Reiz, doch über die Kriterien der Reversibilität und Kurzfristigkeit lässt sich streiten. Das Nachdenken über diese Definition zeigt keine äussere Aktivität oder sichtbare Bewegung und ist nicht direkt beobachtbar – mit geeigneten Methoden liesse sich jedoch auch hier eine Aktivität auf neurologischer Ebene nachweisen. Beim Zusammenrollen der Katze sieht es bereits klarer aus, und auch die Farbänderung des Oktopusses erfüllt alle Aspekte unserer Definition, da wir ein beobachtbares Verhalten im Sinne unserer Definition.
+Unsere vier Beispiele sind bewusst so gewählt, dass wir auch mit der hier vorgestellten Definition von Verhalten an deren Grenzen stossen. Das Öffnen der Blüte ist zwar eine beobachtbare Reaktion auf einen Reiz, doch über die Kriterien der Reversibilität und Kurzfristigkeit lässt sich streiten. Das Nachdenken über diese Definition zeigt keine äussere Aktivität oder sichtbare Bewegung und ist nicht direkt beobachtbar – mit geeigneten Methoden liesse sich jedoch auch hier eine Aktivität auf neurologischer Ebene nachweisen. Beim Zusammenrollen der Katze sieht es bereits klarer aus, und auch die Farbänderung des Oktopusses erfüllt alle Aspekte unserer Definition. Wir haben ein beobachtbares Verhalten im Sinne unserer Definition.
 
-In diesem und den folgenden Kapiteln werden wir uns vor allem mit direkt beobachtbarem Verhalten im Tierreich beschäftigen. Für diesen Zweck ist die gewählte Definition weitgehend ausreichend. Dennoch ist die Kritik daran berechtigt: Letztlich stammt die Definition von uns und es liegt auch in unserer Verantwortung, sie weiterzuentwickeln, wenn neue wissenschaftliche Erkenntnisse dies erforderlich machen.
+In diesem und den folgenden Kapiteln werden wir uns vor allem mit direkt beobachtbarem Verhalten im Tierreich beschäftigen. Für diesen Zweck ist die gewählte Definition weitgehend ausreichend. Dennoch ist die Kritik daran berechtigt: Letztlich ist diese Definition von Menschen formuliert worden, und es liegt in der Verantwortung von Wissenschaftler:innen, sie weiterzuentwickeln, wenn neue wissenschaftliche Erkenntnisse dies erforderlich machen.
+
+<br> 
+
+◑ **Aufgabe 3.** Definieren Sie, wie das Aggressionsverhalten bei Tieren beobachtbar ist. 
+
+<br> 
+<a href="javascript:void(0);" onclick="toggleIframe()" style="
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #404f58;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+">→ Antworten mit KI überprüfen</a>
+
+<div id="iframe-container" style="display: none; margin-top: 10px;">
+  <iframe src="https://stobler.shinyapps.io/verhaltensbiologie" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+</div>
+
+
+<script>
+  function toggleIframe() {
+    var container = document.getElementById("iframe-container");
+    if (container.style.display === "none") {
+      container.style.display = "block";
+    } else {
+      container.style.display = "none";
+    }
+  }
+</script>
+
+
 
 ## Hypothesen, Experimente und der wissenschaftliche Erkenntnisgewinn
 
-Was wir in den ersten Aufgaben dieses Kapitels erarbeitet haben, lässt sich bereits als Verhaltensuntersuchung bezeichnen. Dabei wurde eine konkrete Situation analysiert, um zu prüfen, ob sich die allgemeine Definition auch auf spezielle Fälle anwenden lässt. In den Naturwissenschaften spricht man in diesem Zusammenhang vom **induktiven Schlussfolgern**.
+Was wir in den ersten Aufgaben dieses Kapitels erarbeitet haben, lässt sich bereits als Verhaltensuntersuchung bezeichnen. Dabei wurden mehrere konkrete Situation analysiert,um aus diesen Beobachtungen eine allgemeine Definition abzuleiten. In den Naturwissenschaften spricht man in diesem Zusammenhang vom **induktiven Schlussfolgern**.
 
-Durch das Sammeln und Analysieren von Beobachtungen lassen sich mithilfe logischer Kombinationen wichtige Erkenntnisse gewinnen. Da man dabei schrittweise zu einer Schlussfolgerung gelangt, nennt man diese Form des Erkenntnisgewinns induktiv (lateinisch _in_ = hinein, _ducere_ = führen). Aus einzelnen Beobachtungen versuchen wir also, Verallgemeinerungen abzuleiten, um unsere Umwelt zu beschreiben und besser zu verstehen.
+Beim induktiven Vorgehen geht man von einzelnen Beobachtungen aus und versucht, daraus allgemeine Aussagen oder Hypothesen abzuleiten. Durch das Sammeln und Analysieren von Beobachtungen lassen sich mithilfe logischer Kombinationen wichtige Erkenntnisse gewinnen. Da man dabei schrittweise von konkreten Fällen zu einer allgemeineren Schlussfolgerung gelangt, nennt man diese Form des Erkenntnisgewinns induktiv (lateinisch _in_ = hinein, _ducere_ = führen).
 
-Solche Beobachtungen ermöglichen es uns, eine Hypothese aufzustellen: eine begründete Vermutung, mit der wir eine bestimmte Erscheinung erklären wollen. Entscheidend ist dabei, dass sich aus der Hypothese eine überprüfbare Vorhersage ableiten lässt, die wir in einem wissenschaftlichen Experiment testen können.
+Solche Beobachtungen ermöglichen es uns, eine Hypothese aufzustellen, also eine begründete Vermutung, mit der wir eine bestimmte Erscheinung erklären wollen. Die Hypothese ist dabei das Ergebnis des induktiven Vorgehens.
 
-An dieser Stelle kommt die zweite wichtige wissenschaftliche Herangehensweise zum Tragen: das **deduktive Schlussfolgern**, das einer umgekehrten Logik folgt. Dabei wird von einer allgemeinen Annahme (z.B. einer Hypothese) ausgegangen, um vorherzusagen, wie sich diese in einem konkreten Fall auswirken sollte. Wir beginnen also mit einer bestimmten Vermutung und prüfen durch Experimente und Beobachtungen, ob die daraus abgeleiteten Erwartungen mit den tatsächlich erzielten Resultaten übereinstimmen. Dieses Hypothesentesten folgt einer «Wenn …, dann …»-Logik – konkreter: Wenn unsere Hypothese zutrifft, dann sollte ein bestimmtes Verhalten beobachtbar sein.
+An dieser Stelle kommt die zweite wichtige wissenschaftliche Herangehensweise zum Tragen: das **deduktive Schlussfolgern**, das einer umgekehrten Logik folgt. Beim deduktiven Vorgehen wird nicht von Beobachtungen, sondern von einer bereits formulierten Hypothese ausgegangen. Ziel ist es, aus dieser Hypothese konkrete, überprüfbare Vorhersagen abzuleiten.
 
-Wichtig ist dabei, sich bewusst zu machen, dass eine übereinstimmende Beobachtung keinen Beweis der Hypothese darstellt. Vielmehr bedeutet sie lediglich, dass die Hypothese im Licht des aktuellen Wissensstands eine plausible Erklärung bietet. In Wirklichkeit versuchen wir beim Hypothesentesten nicht, unsere Vermutung zu beweisen, sondern sie zu widerlegen.
+Diese Vorhersagen werden anschliessend durch gezielte Experimente oder weitere Beobachtungen überprüft. Das deduktive Schlussfolgern folgt dabei einer «Wenn …, dann …»-Logik: Wenn die Hypothese zutrifft, dann sollte ein bestimmtes Verhalten oder Ergebnis beobachtbar sein. Deduktives Vorgehen dient somit nicht der Bildung, sondern der Überprüfung von Hypothesen.
 
-Am Ende eines wissenschaftlichen Experiments folgt die Interpretation der Resultate und der gefundenen Zusammenhänge. Diese werden wir in den nächsten Kapiteln vertiefen. Zuvor befassen wir uns jedoch noch eingehender mit der wissenschaftlichen Herangehensweise in Verhaltensexperimenten.
+Wichtig ist dabei, sich bewusst zu machen, dass übereinstimmende Beobachtungen eine Hypothese nicht beweisen können. Vielmehr versuchen wir beim deduktiven Hypothesentesten gezielt, unsere Vermutung zu widerlegen. Eine Hypothese gilt nur so lange als brauchbar, bis neue Beobachtungen ihr widersprechen.
+
+Am Ende eines wissenschaftlichen Experiments folgt die Auswertung und Interpretation der Resultate. Diese können dazu führen, dass eine Hypothese angepasst, verworfen oder weiterverfolgt wird. Daraus ergibt sich ein zyklischer Prozess, in dem sich induktives und deduktives Vorgehen ergänzen.
+
 
 ```{r fig1-2, fig.cap='Graphisch vereinfachte Darstellung des wissenschaftlichen Arbeitens.', out.width='80%', echo= F, fig.align= 'center'}
 knitr::include_graphics('figures/fig1-2.png')
 ```
 
 
-◑ **Aufgabe 3.** Formulieren Sie mindestens drei Aspekte, in denen sich das induktive und das deduktive Erforschen voneinander unterscheiden.
+○ **Aufgabe 4.** Formulieren Sie mindestens drei Aspekte, in denen sich das induktive und das deduktive Erforschen voneinander unterscheiden.
 
-◑ **Aufgabe 4.** Betrachten Sie die Bilderreihe in Abbildung \@ref(fig:fig1-2) und erläutern Sie, wie sich die dargestellten Schritte durch induktives und deduktives Schlussfolgern miteinander verbinden lassen. Stellen Sie dazu auch stichwortartig den Ablauf des wissenschaftlichen Arbeitens zusammen. 
+◑ **Aufgabe 5.** Betrachten Sie die Bilderreihe in Abbildung \@ref(fig:fig1-2) und erläutern Sie, wie sich die dargestellten Schritte durch induktives und deduktives Schlussfolgern miteinander verbinden lassen. Stellen Sie dazu auch stichwortartig den Ablauf des wissenschaftlichen Arbeitens zusammen. 
 
-● **Aufgabe 5.** Beim Testen von Hypothesen ist es wichtig, sich vor Augen zu führen, dass Hypothesen nicht bewiesen, sondern nur widerlegt werden können. Überlegen Sie sich deshalb, welche Aspekte wissenschaftlichen Arbeitens besonders entscheidend sind, um die Aussagekraft eines Resultats möglichst gut abzusichern.
+● **Aufgabe 6.** Beim Testen von Hypothesen ist es wichtig, sich vor Augen zu führen, dass Hypothesen nicht bewiesen, sondern nur widerlegt werden können. Überlegen Sie sich deshalb, welche Aspekte wissenschaftlichen Arbeitens besonders entscheidend sind, um die Aussagekraft eines Resultats möglichst gut abzusichern.
+
+● **Aufgabe 7 | Wissen verknüpfen.** Im vorherigen Kapitel haben wir eine Definition für das Aggressionsverhalten aufgestellt. Lässt sich diese Definition auch auf den Menschen anwenden? Wo stösst sie auf ihre Grenzen?
+
 
 
 <br>
@@ -136,7 +180,7 @@ knitr::include_graphics('figures/fig1-2.png')
 
 ## Mastery Check
 
-**Aufgabe 6 | Mastery Check.** Lösen Sie die Multiple Choice-Aufgaben zu diesem Kapitel, die Sie unter dem folgenden Link finden. Wenn Sie mehr als 80% der Punkte erreichen, können Sie mit dem nächsten Kapitel fortfahren. Zeigen Sie vorher Ihre Ergebnisse des Mastery Checks kurz der Lehrperson. 
+**Aufgabe 8 | Mastery Check.** Lösen Sie die Multiple Choice-Aufgaben zu diesem Kapitel, die Sie unter dem folgenden Link finden. Wenn Sie mehr als 80% der Punkte erreichen, können Sie mit dem nächsten Kapitel fortfahren. Zeigen Sie vorher Ihre Ergebnisse des Mastery Checks kurz der Lehrperson. 
 
 <br>
 
