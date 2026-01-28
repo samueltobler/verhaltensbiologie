@@ -156,7 +156,7 @@ Wir gehen im Stammbaum immer nur in eine Richtung, weshalb eine direkte Verwandt
 
 **Beispiel 2: Verwandtschaftsgrad zwischen Ihrer Mutter und Ihrer Tante**
 
-Um den Verwandtschaftsgrad Ihrer Mutter und Tante zu bestimmen, muss die Generation gewechselt werden: Zur Grossmutter oder zum Grossvater und wieder zurück. Deshalb ist hier eine indirekte Verwandtschaft vorhanden und Formel 7.2 wird gebraucht. Da man die Verwandtschaft auf zwei Arten erklären kann, via Grossmutter oder Grossvater, ist also $k=2$. Bei beiden Varianten sind es 2 Generationsschritte $(n_1=n_2=2)$, woraus folgt, dass $r=(0.5)^(n_1 )+(0.5)^(n_2 )=(0.5)^2+(0.5)^2$ und daher $r=2*(0.5)^2=2*0.25=0.5$.
+Um den Verwandtschaftsgrad Ihrer Mutter und Tante zu bestimmen, muss die Generation gewechselt werden: Zur Grossmutter oder zum Grossvater und wieder zurück. Deshalb ist hier eine indirekte Verwandtschaft vorhanden und Formel 7.2 wird gebraucht. Da man die Verwandtschaft auf zwei Arten erklären kann, via Grossmutter oder Grossvater, ist also $k=2$. Bei beiden Varianten sind es 2 Generationsschritte $(n_1=n_2=2)$, woraus folgt, dass $r=(0.5)^{n_1}+(0.5)^{n_2}=(0.5)^2+(0.5)^2$ und daher $r=2*(0.5)^2=2*0.25=0.5$.
 
 <br>
 
