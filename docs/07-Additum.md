@@ -282,7 +282,7 @@ mit
 
 - $n$ als maximale Anzahl Generationen aus $j$ Generationsschritten
 
-- $P_(i,j)$ als Ploidiegrad des Schrittes j auf dem Weg $i$ mit $P_(i,j)=1$ bei Schritten haploider Organismen und $P_{(i,j)}=0.5$ bei Schritten von diploiden Organismen. 
+- $P_{(i,j)}$ als Ploidiegrad des Schrittes j auf dem Weg $i$ mit $P_{(i,j)}=1$ bei Schritten haploider Organismen und $P_{(i,j)}=0.5$ bei Schritten von diploiden Organismen. 
 
 Die Überlegungen aus dem vorherigen Kapitel bezüglich der Anzahl Wege, um die Verwandtschaft zwischen Arbeiterin und Drohne zu zeigen (1 möglicher Weg mit indirekter Verwandtschaft, $k=1$), und der Anzahl benötigter Generationsschritte ($n=2$) sind immer noch valide. Der Ploidiegrad muss allerdings für $j=1$ von der Drohne zur Mutter und $j=2$ von der Mutter zur Arbeiterin unabhängig voneinander bestimmt werden. Daher folgt: $r=P_1*P_2=1*0.5=0.5$
 
