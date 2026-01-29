@@ -267,7 +267,7 @@ knitr::include_graphics('figures/fig7-3.png')
 
 Um der Situation gerecht zu werden, dass nicht alle Generationswege $n_i$ den gleichen Ploidiegrad $P$ haben müssen, muss also unsere Formel entsprechend angepasst werden. Als Beispiel der Drohnen und Arbeiterinnen derselben Mutter kann man schliessen, dass die Drohnen zwar mit der Mutter einen Verwandtschaftsgrad von $r=1$ haben und die Arbeiterinnen mit der Mutter $r=0.5$. Wenn in beiden Schritten diploide Individuen vorkämen, dann ginge die Formel mit $r$ als das Multiplikationsprodukt der beiden Wahrscheinlichkeiten auf ($r=0.5*0.5=(0.5)^2$). 
 
-Da wir aber nun einen Ploidiewechsel in den zwei Generationsschritten (n=2) haben, entsteht in unserer Formel ein Widerspruch $r=1*0.5 ≠(0.5)^n=(0.5)^2$. Viel eher müsste man also das Produkt der Einzelwahrscheinlichkeiten (d.h. der Ploidiegrade) der einzelnen Schritte betrachten. Die angepasste Formel lautete daher: 
+Da wir aber nun einen Ploidiewechsel in den zwei Generationsschritten ($n=2$) haben, entsteht in unserer Formel ein Widerspruch $r=1*0.5 ≠(0.5)^n=(0.5)^2$. Viel eher müsste man also das Produkt der Einzelwahrscheinlichkeiten (d.h. der Ploidiegrade) der einzelnen Schritte betrachten. Die angepasste Formel lautete daher: 
 
 $r = \sum_{i=1}^{k} \left( \prod_{j=1}^{n} P_{i,j} \right) \tag{7.4}$
 
